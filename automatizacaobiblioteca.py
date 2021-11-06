@@ -1,3 +1,5 @@
+from pymarc import MARCReader
+
 # Retornar a localização Arco de um livro com o nome do autor e do livro #
 def localizacao_arco_nome(sobrenome, livro):
 	
@@ -14,3 +16,19 @@ def localizacao_arco_nome(sobrenome, livro):
 	
 	localizacao_arco = f"{sobrenome_formatado}{title_split[0][0]}"
 	return localizacao_arco
+
+def marc(arquivo):
+	 # Dicionário para guardar dados
+
+	with open(arquivo, 'rb') as fh:
+		reader = MARCReader(fh)
+        
+		for dados_leitor in reader:
+			data = {
+				"Autor" : dados_leitor.author(),
+				"Livro" : dados_leitor.title()
+			}
+
+		localizador = localizacao_arco_nome(data["Autor"], data["Livro"])
+		
+		return localizador

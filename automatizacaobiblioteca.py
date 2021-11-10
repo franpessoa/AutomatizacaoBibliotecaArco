@@ -1,4 +1,7 @@
-from pymarc import MARCReader
+from pymarc import MARCReader, Field
+from pymarc import exceptions as exc
+from pymarc.writer import  MARCWriter
+from pymarc.field import Field
 
 # Retornar a localização Arco de um livro com o nome do autor e do livro #
 def localizacao_arco_nome(sobrenome, livro):
@@ -17,18 +20,35 @@ def localizacao_arco_nome(sobrenome, livro):
 	localizacao_arco = f"{sobrenome_formatado}{title_split[0][0]}"
 	return localizacao_arco
 
-def marc(arquivo):
-	 # Dicionário para guardar dados
-
+def atualiza_marc(arquivo):
+	updated_records = []
 	with open(arquivo, 'rb') as fh:
 		reader = MARCReader(fh)
-        
-		for dados_leitor in reader:
-			data = {
-				"Autor" : dados_leitor.author(),
-				"Livro" : dados_leitor.title()
-			}
 
-		localizador = localizacao_arco_nome(data["Autor"], data["Livro"])
-		
-		return localizador
+		for record in reader:
+			if record:
+				new_field = Field(
+						tag='090',
+						indicators=[0, 0],
+						subfields = [
+							'a','',
+							'b', localizacao_arco_nome(
+								record.author(),
+								record.title()),
+							'c', '',
+							'd', '',
+							]
+						)
+
+				record.add_ordered_field(new_field)
+				updated_records.append(record)
+			else:
+				# TODO: Dar um jeito de imprimir o isbn aqui
+				print("Erro no arquivo marc!")
+				print(reader.current_exception)
+				print(reader.current_chunk)
+
+	with open(arquivo + '.updated', 'wb') as fh:
+		writer = MARCWriter(fh)
+		for record in updated_records:
+			writer.write(record)

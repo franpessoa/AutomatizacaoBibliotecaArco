@@ -11,6 +11,8 @@ class ExportCSVData():
     def read_and_write(self):
         try:
             os.mkdir(self.csvpath)
+        except (FileExistsError) as erro:
+            print("Diretório output para o CSV já existe")
         except Exception as erro:
             print("Erro na criação do diretório de output do CSV")
             print(erro.__class__())

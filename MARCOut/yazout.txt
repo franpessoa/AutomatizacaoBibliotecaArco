@@ -5,5446 +5,5446 @@ ID     : 81
 Name   : Zebra Information Server/GFS/YAZ
 Version: 2.2.1/5.30.3 2af59bc45cf4508d5c84f350ee99804c4354b3b3
 Options: search present delSet triggerResourceCtrl scan sort extendedServices namedResultSets
-Elapsed: 0.389850
+Elapsed: 0.392031
 Z> Z> Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 1
 SearchResult-1: term=9788535917802 cnt=2
 records returned: 0
-Elapsed: 0.213386
+Elapsed: 0.210036
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 2
 SearchResult-1: term=9788575961681 cnt=1
 records returned: 0
-Elapsed: 0.192554
+Elapsed: 0.196053
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 5, setno 3
 SearchResult-1: term=9788535901795 cnt=5
 records returned: 0
-Elapsed: 0.191822
+Elapsed: 0.191782
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 4
 SearchResult-1: term=9788535628159 cnt=1
 records returned: 0
-Elapsed: 0.191655
+Elapsed: 0.191914
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 5
 SearchResult-1: term=9788565771030 cnt=2
 records returned: 0
-Elapsed: 0.191555
+Elapsed: 0.191769
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 6
 SearchResult-1: term=9788599188415 cnt=0
 records returned: 0
-Elapsed: 0.191786
+Elapsed: 0.191898
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 7
 SearchResult-1: term=9788599296578 cnt=1
 records returned: 0
-Elapsed: 0.191787
+Elapsed: 0.192053
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 8
 SearchResult-1: term=8535903410 cnt=2
 records returned: 0
-Elapsed: 0.191730
+Elapsed: 0.190761
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 5, setno 9
 SearchResult-1: term=9788535901795 cnt=5
 records returned: 0
-Elapsed: 0.191617
+Elapsed: 0.194895
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 10
 SearchResult-1: term=9788535916041 cnt=1
 records returned: 0
-Elapsed: 0.191602
+Elapsed: 0.195251
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 11
 SearchResult-1: term=8500005513 cnt=1
 records returned: 0
-Elapsed: 0.191684
+Elapsed: 0.196156
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 12
 SearchResult-1: term=9788535917345 cnt=1
 records returned: 0
-Elapsed: 0.191713
+Elapsed: 0.191852
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 13
 SearchResult-1: term=9788516066185 cnt=1
 records returned: 0
-Elapsed: 0.191838
+Elapsed: 0.191360
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 3, setno 14
 SearchResult-1: term=9788535902471 cnt=3
 records returned: 0
-Elapsed: 0.191558
+Elapsed: 0.191903
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 15
 SearchResult-1: term=9788508085262 cnt=0
 records returned: 0
-Elapsed: 0.191691
+Elapsed: 0.191422
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 16
 SearchResult-1: term=8503006782 cnt=2
 records returned: 0
-Elapsed: 0.191341
+Elapsed: 0.191854
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 17
 SearchResult-1: term=9788535915617 cnt=2
 records returned: 0
-Elapsed: 0.191852
+Elapsed: 0.191870
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 18
 SearchResult-1: term=9788535918014 cnt=2
 records returned: 0
-Elapsed: 0.191688
+Elapsed: 0.191754
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 19
 SearchResult-1: term=9788562689604 cnt=0
 records returned: 0
-Elapsed: 0.191647
+Elapsed: 0.192251
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 20
 SearchResult-1: term=9788520924709 cnt=0
 records returned: 0
-Elapsed: 0.191583
+Elapsed: 0.196782
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 5, setno 21
 SearchResult-1: term=9788535904611 cnt=5
 records returned: 0
-Elapsed: 0.191601
+Elapsed: 0.191592
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 22
 SearchResult-1: term=9788535913835 cnt=2
 records returned: 0
-Elapsed: 0.191878
+Elapsed: 0.191877
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 23
 SearchResult-1: term=9788535906370 cnt=2
 records returned: 0
-Elapsed: 0.191787
+Elapsed: 0.191776
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 6, setno 24
 SearchResult-1: term=9788535918854 cnt=6
 records returned: 0
-Elapsed: 0.191671
+Elapsed: 0.191835
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 25
 SearchResult-1: term=9788574065724 cnt=1
 records returned: 0
-Elapsed: 0.191506
+Elapsed: 0.191877
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 26
 SearchResult-1: term=9788574064819 cnt=1
 records returned: 0
-Elapsed: 0.191977
+Elapsed: 0.191807
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 27
 SearchResult-1: term=9788574064826 cnt=1
 records returned: 0
-Elapsed: 0.191442
+Elapsed: 0.192095
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 28
 SearchResult-1: term=9788535920468 cnt=1
 records returned: 0
-Elapsed: 0.192072
+Elapsed: 0.191181
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 29
 SearchResult-1: term=9788564558274 cnt=0
 records returned: 0
-Elapsed: 0.191513
+Elapsed: 0.190905
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 5, setno 30
 SearchResult-1: term=8501049565 cnt=5
 records returned: 0
-Elapsed: 0.192044
+Elapsed: 0.192163
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 3, setno 31
 SearchResult-1: term=8526210459 cnt=3
 records returned: 0
-Elapsed: 0.191539
+Elapsed: 0.190681
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 32
 SearchResult-1: term=8526246615 cnt=0
 records returned: 0
-Elapsed: 0.191846
+Elapsed: 0.192111
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 6, setno 33
 SearchResult-1: term=8571644853 cnt=6
 records returned: 0
-Elapsed: 0.191602
+Elapsed: 0.191031
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 34
 SearchResult-1: term=8535907696 cnt=1
 records returned: 0
-Elapsed: 0.191757
+Elapsed: 0.192062
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 35
 SearchResult-1: term=9788578481377 cnt=1
 records returned: 0
-Elapsed: 0.191991
+Elapsed: 0.191627
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 36
 SearchResult-1: term=9788574807034 cnt=1
 records returned: 0
-Elapsed: 0.191778
+Elapsed: 0.191715
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 3, setno 37
 SearchResult-1: term=9788574064499 cnt=3
 records returned: 0
-Elapsed: 0.192057
+Elapsed: 0.191974
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 3, setno 38
 SearchResult-1: term=9788574064642 cnt=3
 records returned: 0
-Elapsed: 0.191549
+Elapsed: 0.191611
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 39
 SearchResult-1: term=9788535622409 cnt=1
 records returned: 0
-Elapsed: 0.197828
+Elapsed: 0.191761
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 6, setno 40
 SearchResult-1: term=857164960X cnt=6
 records returned: 0
-Elapsed: 0.191874
+Elapsed: 0.192150
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 41
 SearchResult-1: term=8573260165 cnt=1
 records returned: 0
-Elapsed: 0.191846
+Elapsed: 0.191696
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 42
 SearchResult-1: term=9788574121574 cnt=1
 records returned: 0
-Elapsed: 0.191915
+Elapsed: 0.191526
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 43
 SearchResult-1: term=9788525417060 cnt=1
 records returned: 0
-Elapsed: 0.191659
+Elapsed: 0.191755
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 44
 SearchResult-1: term=9788506062890 cnt=0
 records returned: 0
-Elapsed: 0.191679
+Elapsed: 0.192021
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 45
 SearchResult-1: term=9788526023406 cnt=1
 records returned: 0
-Elapsed: 0.191740
+Elapsed: 0.191711
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 46
 SearchResult-1: term=9788574065199 cnt=0
 records returned: 0
-Elapsed: 0.191747
+Elapsed: 0.191730
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 47
 SearchResult-1: term=97885657650406 cnt=0
 records returned: 0
-Elapsed: 0.198072
+Elapsed: 0.191702
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 48
 SearchResult-1: term=9788574063607 cnt=1
 records returned: 0
-Elapsed: 0.191947
+Elapsed: 0.191894
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 49
 SearchResult-1: term=8533604726 cnt=1
 records returned: 0
-Elapsed: 0.192671
+Elapsed: 0.191904
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 50
 SearchResult-1: term=9788577230471 cnt=1
 records returned: 0
-Elapsed: 0.190771
+Elapsed: 0.191768
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 51
 SearchResult-1: term=9788574169682 cnt=1
 records returned: 0
-Elapsed: 0.191751
+Elapsed: 0.191846
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 52
 SearchResult-1: term=8516023702 cnt=1
 records returned: 0
-Elapsed: 0.192224
+Elapsed: 0.191844
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 53
 SearchResult-1: term=9788561041526 cnt=0
 records returned: 0
-Elapsed: 0.191096
+Elapsed: 0.191981
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 54
 SearchResult-1: term=9788571649804 cnt=0
 records returned: 0
-Elapsed: 0.191747
+Elapsed: 0.191675
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 55
 SearchResult-1: term=9788539411788 cnt=0
 records returned: 0
-Elapsed: 0.191856
+Elapsed: 0.191681
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 56
 SearchResult-1: term=9788574063669 cnt=2
 records returned: 0
-Elapsed: 0.191480
+Elapsed: 0.191772
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 4, setno 57
 SearchResult-1: term=8574060348 cnt=4
 records returned: 0
-Elapsed: 0.191822
+Elapsed: 0.191915
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 58
 SearchResult-1: term=9788535916478 cnt=0
 records returned: 0
-Elapsed: 0.191534
+Elapsed: 0.192794
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 59
 SearchResult-1: term=9788535928464 cnt=1
 records returned: 0
-Elapsed: 0.191826
+Elapsed: 0.190793
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 60
 SearchResult-1: term=9978857164750 cnt=0
 records returned: 0
-Elapsed: 0.191974
+Elapsed: 0.191862
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 61
 SearchResult-1: term=8525032441 cnt=2
 records returned: 0
-Elapsed: 0.191708
+Elapsed: 0.191779
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 62
 SearchResult-1: term=9788535905045 cnt=0
 records returned: 0
-Elapsed: 0.191640
+Elapsed: 0.191885
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 63
 SearchResult-1: term=8535907114 cnt=1
 records returned: 0
-Elapsed: 0.192021
+Elapsed: 0.191741
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 64
 SearchResult-1: term=851601181X cnt=1
 records returned: 0
-Elapsed: 0.191424
+Elapsed: 0.192043
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 65
 SearchResult-1: term=8535901019 cnt=2
 records returned: 0
-Elapsed: 0.191320
+Elapsed: 0.191853
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 66
 SearchResult-1: term=850000990X cnt=1
 records returned: 0
-Elapsed: 0.191713
+Elapsed: 0.191655
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 67
 SearchResult-1: term=9788501082077 cnt=1
 records returned: 0
-Elapsed: 0.191776
+Elapsed: 0.192125
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 68
 SearchResult-1: term=9788573264678 cnt=1
 records returned: 0
-Elapsed: 0.191605
+Elapsed: 0.191447
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 69
 SearchResult-1: term=8500005629 cnt=1
 records returned: 0
-Elapsed: 0.191903
+Elapsed: 0.191647
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 70
 SearchResult-1: term=9788535920147 cnt=1
 records returned: 0
-Elapsed: 0.192386
+Elapsed: 0.191821
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 71
 SearchResult-1: term=8501068802 cnt=1
 records returned: 0
-Elapsed: 0.191658
+Elapsed: 0.191909
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 6, setno 72
 SearchResult-1: term=8535901736 cnt=6
 records returned: 0
-Elapsed: 0.190883
+Elapsed: 0.191893
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 73
 SearchResult-1: term=8576750201 cnt=1
 records returned: 0
-Elapsed: 0.191679
+Elapsed: 0.191719
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 74
 SearchResult-1: term=8535908080 cnt=1
 records returned: 0
-Elapsed: 0.191775
+Elapsed: 0.191885
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 75
 SearchResult-1: term=8573261005 cnt=1
 records returned: 0
-Elapsed: 0.191503
+Elapsed: 0.191771
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 76
 SearchResult-1: term=8535905200 cnt=2
 records returned: 0
-Elapsed: 0.191844
+Elapsed: 0.191766
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 77
 SearchResult-1: term=9788535916829 cnt=1
 records returned: 0
-Elapsed: 0.191792
+Elapsed: 0.191948
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 3, setno 78
 SearchResult-1: term=9788535900873 cnt=3
 records returned: 0
-Elapsed: 0.192161
+Elapsed: 0.192183
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 79
 SearchResult-1: term=9788534507387 cnt=0
 records returned: 0
-Elapsed: 0.191414
+Elapsed: 0.191485
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 80
 SearchResult-1: term=978859807892 cnt=0
 records returned: 0
-Elapsed: 0.191561
+Elapsed: 0.191883
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 81
 SearchResult-1: term=9788535913897 cnt=1
 records returned: 0
-Elapsed: 0.191173
+Elapsed: 0.194562
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 82
 SearchResult-1: term=9788535910667 cnt=1
 records returned: 0
-Elapsed: 0.191708
+Elapsed: 0.194978
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 5, setno 83
 SearchResult-1: term=8532201431 cnt=5
 records returned: 0
-Elapsed: 0.191852
+Elapsed: 0.194790
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 84
 SearchResult-1: term=9788535906585 cnt=0
 records returned: 0
-Elapsed: 0.191544
+Elapsed: 0.191128
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 85
 SearchResult-1: term=9788535912197 cnt=1
 records returned: 0
-Elapsed: 0.191773
+Elapsed: 0.191693
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 86
 SearchResult-1: term=9788574063935 cnt=2
 records returned: 0
-Elapsed: 0.191842
+Elapsed: 0.199121
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 87
 SearchResult-1: term=9788561384333 cnt=1
 records returned: 0
-Elapsed: 0.192300
+Elapsed: 0.190983
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 88
 SearchResult-1: term=8533609825 cnt=1
 records returned: 0
-Elapsed: 0.191055
+Elapsed: 0.193896
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 89
 SearchResult-1: term=8535907661 cnt=1
 records returned: 0
-Elapsed: 0.191864
+Elapsed: 0.198001
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 90
 SearchResult-1: term=9788526015319 cnt=1
 records returned: 0
-Elapsed: 0.192206
+Elapsed: 0.191632
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 91
 SearchResult-1: term=9788535919509 cnt=1
 records returned: 0
-Elapsed: 0.191299
+Elapsed: 0.194835
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 92
 SearchResult-1: term=9788574061306 cnt=0
 records returned: 0
-Elapsed: 0.191537
+Elapsed: 0.194968
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 93
 SearchResult-1: term=8573262869 cnt=1
 records returned: 0
-Elapsed: 0.191909
+Elapsed: 0.194544
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 94
 SearchResult-1: term=9788540502215 cnt=1
 records returned: 0
-Elapsed: 0.191589
+Elapsed: 0.193684
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 5, setno 95
 SearchResult-1: term=8571649707 cnt=5
 records returned: 0
-Elapsed: 0.192088
+Elapsed: 0.191764
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 5, setno 96
 SearchResult-1: term=8571649707 cnt=5
 records returned: 0
-Elapsed: 0.191663
+Elapsed: 0.191879
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 6, setno 97
 SearchResult-1: term=857164974x cnt=6
 records returned: 0
-Elapsed: 0.191748
+Elapsed: 0.191811
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 98
 SearchResult-1: term=9788570566799 cnt=1
 records returned: 0
-Elapsed: 0.191887
+Elapsed: 0.191741
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 99
 SearchResult-1: term=8573726245 cnt=1
 records returned: 0
-Elapsed: 0.191396
+Elapsed: 0.191732
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 6, setno 100
 SearchResult-1: term=8508026811 cnt=6
 records returned: 0
-Elapsed: 0.191837
+Elapsed: 0.191408
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 101
 SearchResult-1: term=8535901914 cnt=2
 records returned: 0
-Elapsed: 0.192130
+Elapsed: 0.191788
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 102
 SearchResult-1: term=8532245544 cnt=1
 records returned: 0
-Elapsed: 0.191365
+Elapsed: 0.191613
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 103
 SearchResult-1: term=9788535902044 cnt=1
 records returned: 0
-Elapsed: 0.191777
+Elapsed: 0.191975
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 104
 SearchResult-1: term=9788578885236 cnt=1
 records returned: 0
-Elapsed: 0.191730
+Elapsed: 0.190491
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 105
 SearchResult-1: term=9788577230648 cnt=0
 records returned: 0
-Elapsed: 0.191538
+Elapsed: 0.191916
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 106
 SearchResult-1: term=9788566642346 cnt=0
 records returned: 0
-Elapsed: 0.192090
+Elapsed: 0.191224
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 107
 SearchResult-1: term=9788521317258 cnt=1
 records returned: 0
-Elapsed: 0.191537
+Elapsed: 0.191722
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 108
 SearchResult-1: term=9788535913736 cnt=1
 records returned: 0
-Elapsed: 0.191821
+Elapsed: 0.191936
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 109
 SearchResult-1: term=8533609892 cnt=1
 records returned: 0
-Elapsed: 0.191581
+Elapsed: 0.191829
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 110
 SearchResult-1: term=9788532506924 cnt=0
 records returned: 0
-Elapsed: 0.191819
+Elapsed: 0.191694
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 111
 SearchResult-1: term=9788578481711 cnt=1
 records returned: 0
-Elapsed: 0.192073
+Elapsed: 0.191748
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 112
 SearchResult-1: term=9788526016187 cnt=1
 records returned: 0
-Elapsed: 0.191646
+Elapsed: 0.192059
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 113
 SearchResult-1: term=8574061913 cnt=2
 records returned: 0
-Elapsed: 0.192348
+Elapsed: 0.191114
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 114
 SearchResult-1: term=8533623275 cnt=1
 records returned: 0
-Elapsed: 0.190561
+Elapsed: 0.191947
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 115
 SearchResult-1: term=9788535912548 cnt=1
 records returned: 0
-Elapsed: 0.192286
+Elapsed: 0.191817
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 116
 SearchResult-1: term=9788574062839 cnt=1
 records returned: 0
-Elapsed: 0.191577
+Elapsed: 0.191802
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 5, setno 117
 SearchResult-1: term=9788535908725 cnt=5
 records returned: 0
-Elapsed: 0.191429
+Elapsed: 0.191787
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 118
 SearchResult-1: term=9788501078780 cnt=1
 records returned: 0
-Elapsed: 0.191728
+Elapsed: 0.192114
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 119
 SearchResult-1: term=8535906010 cnt=2
 records returned: 0
-Elapsed: 0.191765
+Elapsed: 0.191748
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 4, setno 120
 SearchResult-1: term=8574060879 cnt=4
 records returned: 0
-Elapsed: 0.191550
+Elapsed: 0.191222
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 121
 SearchResult-1: term=8533609760 cnt=1
 records returned: 0
-Elapsed: 0.191829
+Elapsed: 0.191848
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 122
 SearchResult-1: term=9788535917802 cnt=2
 records returned: 0
-Elapsed: 0.191703
+Elapsed: 0.191924
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 123
 SearchResult-1: term=9788574061528 cnt=1
 records returned: 0
-Elapsed: 0.191985
+Elapsed: 0.195040
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 124
 SearchResult-1: term=9788573213645 cnt=1
 records returned: 0
-Elapsed: 0.191799
+Elapsed: 0.194735
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 125
 SearchResult-1: term=9788506023051 cnt=0
 records returned: 0
-Elapsed: 0.191709
+Elapsed: 0.195643
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 13, setno 126
 SearchResult-1: term=8508067712 cnt=13
 records returned: 0
-Elapsed: 0.191801
+Elapsed: 0.194887
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 127
 SearchResult-1: term=9788574065007 cnt=1
 records returned: 0
-Elapsed: 0.191645
+Elapsed: 0.194958
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 128
 SearchResult-1: term=8533609817 cnt=0
 records returned: 0
-Elapsed: 0.191928
+Elapsed: 0.190843
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 129
 SearchResult-1: term=9788573215571 cnt=1
 records returned: 0
-Elapsed: 0.191577
+Elapsed: 0.191642
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 130
 SearchResult-1: term=9788535911565 cnt=1
 records returned: 0
-Elapsed: 0.191764
+Elapsed: 0.191647
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 131
 SearchResult-1: term=9788573212556 cnt=1
 records returned: 0
-Elapsed: 0.191777
+Elapsed: 0.191447
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 3, setno 132
 SearchResult-1: term=9788535911206 cnt=3
 records returned: 0
-Elapsed: 0.191326
+Elapsed: 0.191998
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 133
 SearchResult-1: term=9788561695552 cnt=1
 records returned: 0
-Elapsed: 0.191913
+Elapsed: 0.191686
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 134
 SearchResult-1: term=9788564816336 cnt=1
 records returned: 0
-Elapsed: 0.191735
+Elapsed: 0.191888
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 4, setno 135
 SearchResult-1: term=8535903704 cnt=4
 records returned: 0
-Elapsed: 0.191647
+Elapsed: 0.191519
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 136
 SearchResult-1: term=853590669X cnt=1
 records returned: 0
-Elapsed: 0.191745
+Elapsed: 0.192002
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 137
 SearchResult-1: term=8526009966 cnt=1
 records returned: 0
-Elapsed: 0.191746
+Elapsed: 0.191797
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 138
 SearchResult-1: term=9788576164142 cnt=1
 records returned: 0
-Elapsed: 0.192710
+Elapsed: 0.191796
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 139
 SearchResult-1: term=8574061212 cnt=0
 records returned: 0
-Elapsed: 0.190754
+Elapsed: 0.191708
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 140
 SearchResult-1: term=9788574060132 cnt=0
 records returned: 0
-Elapsed: 0.191718
+Elapsed: 0.191723
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 141
 SearchResult-1: term=8506011906 cnt=0
 records returned: 0
-Elapsed: 0.191710
+Elapsed: 0.191780
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 142
 SearchResult-1: term=97835920383 cnt=0
 records returned: 0
-Elapsed: 0.191747
+Elapsed: 0.191695
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 8, setno 143
 SearchResult-1: term=8532201113 cnt=8
 records returned: 0
-Elapsed: 0.191754
+Elapsed: 0.191772
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 144
 SearchResult-1: term=9788526012998 cnt=1
 records returned: 0
-Elapsed: 0.191696
+Elapsed: 0.191879
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 145
 SearchResult-1: term=8516030946 cnt=0
 records returned: 0
-Elapsed: 0.191594
+Elapsed: 0.192528
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 146
 SearchResult-1: term=9788573388541 cnt=0
 records returned: 0
-Elapsed: 0.191731
+Elapsed: 0.197219
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 147
 SearchResult-1: term=9788571646148 cnt=2
 records returned: 0
-Elapsed: 0.191625
+Elapsed: 0.191445
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 148
 SearchResult-1: term=9788526010437 cnt=2
 records returned: 0
-Elapsed: 0.191887
+Elapsed: 0.196707
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 149
 SearchResult-1: term=9788561635503 cnt=1
 records returned: 0
-Elapsed: 0.191852
+Elapsed: 0.194336
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 8, setno 150
 SearchResult-1: term=8526002325 cnt=8
 records returned: 0
-Elapsed: 0.191715
+Elapsed: 0.207309
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 151
 SearchResult-1: term=8506008794 cnt=0
 records returned: 0
-Elapsed: 0.191729
+Elapsed: 0.194278
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 152
 SearchResult-1: term=9788565765008 cnt=0
 records returned: 0
-Elapsed: 0.191625
+Elapsed: 0.191793
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 153
 SearchResult-1: term=850022327 cnt=0
 records returned: 0
-Elapsed: 0.191661
+Elapsed: 0.191780
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
-Number of hits: 2, setno 154
-SearchResult-1: term=9788574061559 cnt=2
+Number of hits: 3, setno 154
+SearchResult-1: term=9788574061559 cnt=3
 records returned: 0
-Elapsed: 0.191906
+Elapsed: 0.191932
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 155
 SearchResult-1: term=9788535919547 cnt=1
 records returned: 0
-Elapsed: 0.191909
+Elapsed: 0.196328
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 156
 SearchResult-1: term=9788561635503 cnt=1
 records returned: 0
-Elapsed: 0.192028
+Elapsed: 0.194489
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 157
 SearchResult-1: term=9788572085090 cnt=0
 records returned: 0
-Elapsed: 0.191205
+Elapsed: 0.196377
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 158
 SearchResult-1: term=9788532263513 cnt=1
 records returned: 0
-Elapsed: 0.191793
+Elapsed: 0.191166
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 159
 SearchResult-1: term=9788574064147 cnt=2
 records returned: 0
-Elapsed: 0.191571
+Elapsed: 0.191565
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 5, setno 160
 SearchResult-1: term=8526002090 cnt=5
 records returned: 0
-Elapsed: 0.191767
+Elapsed: 0.192169
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 161
 SearchResult-1: term=9788535918564 cnt=1
 records returned: 0
-Elapsed: 0.191901
+Elapsed: 0.191909
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 162
 SearchResult-1: term=8576162156 cnt=1
 records returned: 0
-Elapsed: 0.191665
+Elapsed: 0.191749
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 163
 SearchResult-1: term=9788576162223 cnt=1
 records returned: 0
-Elapsed: 0.191747
+Elapsed: 0.191522
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 164
 SearchResult-1: term=9788535918373 cnt=1
 records returned: 0
-Elapsed: 0.191679
+Elapsed: 0.191752
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 165
 SearchResult-1: term=9788526016170 cnt=1
 records returned: 0
-Elapsed: 0.191881
+Elapsed: 0.192071
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 166
 SearchResult-1: term=8506018382 cnt=1
 records returned: 0
-Elapsed: 0.191812
+Elapsed: 0.191692
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 167
 SearchResult-1: term=8576161990 cnt=1
 records returned: 0
-Elapsed: 0.191753
+Elapsed: 0.192293
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 168
 SearchResult-1: term=9788577230013 cnt=1
 records returned: 0
-Elapsed: 0.191603
+Elapsed: 0.191329
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 169
 SearchResult-1: term=9788574064277 cnt=2
 records returned: 0
-Elapsed: 0.192733
+Elapsed: 0.191703
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 170
 SearchResult-1: term=9788501109675 cnt=1
 records returned: 0
-Elapsed: 0.190654
+Elapsed: 0.191839
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 3, setno 171
 SearchResult-1: term=8574060895 cnt=3
 records returned: 0
-Elapsed: 0.192016
+Elapsed: 0.192168
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 172
 SearchResult-1: term=8574062219 cnt=1
 records returned: 0
-Elapsed: 0.194610
+Elapsed: 0.191512
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 173
 SearchResult-1: term=9788574061238 cnt=2
 records returned: 0
-Elapsed: 0.195034
+Elapsed: 0.191656
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 174
 SearchResult-1: term=9788501078001 cnt=1
 records returned: 0
-Elapsed: 0.191514
+Elapsed: 0.191880
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 175
 SearchResult-1: term=9788579800764 cnt=1
 records returned: 0
-Elapsed: 0.191950
+Elapsed: 0.191774
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 176
 SearchResult-1: term=9788578279196 cnt=1
 records returned: 0
-Elapsed: 0.191746
+Elapsed: 0.191852
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 177
 SearchResult-1: term=9788526246133 cnt=0
 records returned: 0
-Elapsed: 0.191734
+Elapsed: 0.191880
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 178
 SearchResult-1: term=8585490098 cnt=1
 records returned: 0
-Elapsed: 0.191592
+Elapsed: 0.193134
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 179
 SearchResult-1: term=9788508062188 cnt=0
 records returned: 0
-Elapsed: 0.191633
+Elapsed: 0.194049
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 180
 SearchResult-1: term=9788585500108 cnt=0
 records returned: 0
-Elapsed: 0.191898
+Elapsed: 0.191665
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 181
 SearchResult-1: term=9788504011234 cnt=1
 records returned: 0
-Elapsed: 0.191736
+Elapsed: 0.194913
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 182
 SearchResult-1: term=9788565765091 cnt=1
 records returned: 0
-Elapsed: 0.191812
+Elapsed: 0.194403
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 183
 SearchResult-1: term=9788587306258 cnt=1
 records returned: 0
-Elapsed: 0.191565
+Elapsed: 0.192376
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 184
 SearchResult-1: term=978853591856 cnt=0
 records returned: 0
-Elapsed: 0.191653
+Elapsed: 0.192550
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 185
 SearchResult-1: term=9788577430512 cnt=1
 records returned: 0
-Elapsed: 0.191732
+Elapsed: 0.196263
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 186
 SearchResult-1: term=9788526241978 cnt=0
 records returned: 0
-Elapsed: 0.191734
+Elapsed: 0.191262
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 187
 SearchResult-1: term=9788568660058 cnt=0
 records returned: 0
-Elapsed: 0.191398
+Elapsed: 0.192465
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 188
 SearchResult-1: term=9788574063362 cnt=2
 records returned: 0
-Elapsed: 0.191654
+Elapsed: 0.191130
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 189
 SearchResult-1: term=9788574060477 cnt=0
 records returned: 0
-Elapsed: 0.191581
+Elapsed: 0.192356
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 190
 SearchResult-1: term=9788598750644 cnt=0
 records returned: 0
-Elapsed: 0.192000
+Elapsed: 0.191209
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 3, setno 191
 SearchResult-1: term=9788585466732 cnt=3
 records returned: 0
-Elapsed: 0.191813
+Elapsed: 0.191821
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 3, setno 192
 SearchResult-1: term=9788535911626 cnt=3
 records returned: 0
-Elapsed: 0.191429
+Elapsed: 0.192885
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 11, setno 193
 SearchResult-1: term=8571647623 cnt=11
 records returned: 0
-Elapsed: 0.191601
+Elapsed: 0.191004
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 194
 SearchResult-1: term=9788585469535 cnt=0
 records returned: 0
-Elapsed: 0.191808
+Elapsed: 0.191862
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 195
 SearchResult-1: term=9788576832058 cnt=1
 records returned: 0
-Elapsed: 0.191816
+Elapsed: 0.195560
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 196
 SearchResult-1: term=9788535914146 cnt=1
 records returned: 0
-Elapsed: 0.191700
+Elapsed: 0.192008
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 197
 SearchResult-1: term=8526232096 cnt=0
 records returned: 0
-Elapsed: 0.191772
+Elapsed: 0.192143
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 198
 SearchResult-1: term=9788574065489 cnt=1
 records returned: 0
-Elapsed: 0.191636
+Elapsed: 0.193986
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 199
 SearchResult-1: term=9788574062112 cnt=0
 records returned: 0
-Elapsed: 0.191874
+Elapsed: 0.194790
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 200
 SearchResult-1: term=9788535907803 cnt=0
 records returned: 0
-Elapsed: 0.191726
+Elapsed: 0.190686
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 3, setno 201
 SearchResult-1: term=9788535911626 cnt=3
 records returned: 0
-Elapsed: 0.191991
+Elapsed: 0.191680
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 202
 SearchResult-1: term=8533613377 cnt=0
 records returned: 0
-Elapsed: 0.191647
+Elapsed: 0.191822
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 203
 SearchResult-1: term=9788587193902 cnt=0
 records returned: 0
-Elapsed: 0.191931
+Elapsed: 0.191822
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 204
 SearchResult-1: term=8532209904 cnt=1
 records returned: 0
-Elapsed: 0.191425
+Elapsed: 0.192065
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 205
 SearchResult-1: term=9788571648999 cnt=0
 records returned: 0
-Elapsed: 0.191656
+Elapsed: 0.191558
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 206
 SearchResult-1: term=9786590084408 cnt=0
 records returned: 0
-Elapsed: 0.191832
+Elapsed: 0.191842
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 207
 SearchResult-1: term=9788535913880 cnt=1
 records returned: 0
-Elapsed: 0.191812
+Elapsed: 0.191789
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 208
 SearchResult-1: term=9788585466367 cnt=1
 records returned: 0
-Elapsed: 0.191661
+Elapsed: 0.191896
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 209
 SearchResult-1: term=9788599306666 cnt=1
 records returned: 0
-Elapsed: 0.191850
+Elapsed: 0.191956
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 3, setno 210
 SearchResult-1: term=9788535919493 cnt=3
 records returned: 0
-Elapsed: 0.191539
+Elapsed: 0.197378
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 25, setno 211
 SearchResult-1: term=857164179X cnt=25
 records returned: 0
-Elapsed: 0.191911
+Elapsed: 0.194300
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 212
 SearchResult-1: term=9788574064291 cnt=1
 records returned: 0
-Elapsed: 0.191647
+Elapsed: 0.195710
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 213
 SearchResult-1: term=8585466243 cnt=2
 records returned: 0
-Elapsed: 0.191683
+Elapsed: 0.196458
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 214
 SearchResult-1: term=8478387896 cnt=0
 records returned: 0
-Elapsed: 0.191683
+Elapsed: 0.194897
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 215
 SearchResult-1: term=9788574060019 cnt=0
 records returned: 0
-Elapsed: 0.191847
+Elapsed: 0.193520
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 216
 SearchResult-1: term=9788562936524 cnt=0
 records returned: 0
-Elapsed: 0.191853
+Elapsed: 0.191871
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 217
 SearchResult-1: term=9788526011144 cnt=1
 records returned: 0
-Elapsed: 0.191658
+Elapsed: 0.191699
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 218
 SearchResult-1: term=9788508026814 cnt=0
 records returned: 0
-Elapsed: 0.191895
+Elapsed: 0.191726
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 219
 SearchResult-1: term=9788532207111 cnt=0
 records returned: 0
-Elapsed: 0.191768
+Elapsed: 0.192370
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 220
 SearchResult-1: term=8527405970 cnt=1
 records returned: 0
-Elapsed: 0.191856
+Elapsed: 0.191448
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 221
 SearchResult-1: term=8574062561 cnt=1
 records returned: 0
-Elapsed: 0.191670
+Elapsed: 0.191276
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 222
 SearchResult-1: term=8574062359 cnt=1
 records returned: 0
-Elapsed: 0.191678
+Elapsed: 0.192083
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 223
 SearchResult-1: term=9788533613928 cnt=0
 records returned: 0
-Elapsed: 0.191808
+Elapsed: 0.191633
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 224
 SearchResult-1: term=9788574064598 cnt=1
 records returned: 0
-Elapsed: 0.191681
+Elapsed: 0.191799
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 225
 SearchResult-1: term=9788565381024 cnt=1
 records returned: 0
-Elapsed: 0.191685
+Elapsed: 0.191740
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 226
 SearchResult-1: term=9788535916690 cnt=0
 records returned: 0
-Elapsed: 0.191955
+Elapsed: 0.191443
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 227
 SearchResult-1: term=9788578840099 cnt=1
 records returned: 0
-Elapsed: 0.191541
+Elapsed: 0.191761
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 228
 SearchResult-1: term=9788582051092 cnt=1
 records returned: 0
-Elapsed: 0.191688
+Elapsed: 0.191910
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 229
 SearchResult-1: term=9788574062976 cnt=1
 records returned: 0
-Elapsed: 0.191816
+Elapsed: 0.191676
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 230
 SearchResult-1: term=9788535917307 cnt=1
 records returned: 0
-Elapsed: 0.191767
+Elapsed: 0.191872
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 231
 SearchResult-1: term=8574060739 cnt=2
 records returned: 0
-Elapsed: 0.191594
+Elapsed: 0.191454
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 232
 SearchResult-1: term=9788535919486 cnt=0
 records returned: 0
-Elapsed: 0.191815
+Elapsed: 0.191684
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 233
 SearchResult-1: term=9788574062228 cnt=0
 records returned: 0
-Elapsed: 0.191902
+Elapsed: 0.191824
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 234
 SearchResult-1: term=9788564823044 cnt=0
 records returned: 0
-Elapsed: 0.191613
+Elapsed: 0.191759
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 235
 SearchResult-1: term=8585189413 cnt=0
 records returned: 0
-Elapsed: 0.191536
+Elapsed: 0.193432
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 236
 SearchResult-1: term=9788575964156 cnt=1
 records returned: 0
-Elapsed: 0.191909
+Elapsed: 0.190360
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 237
 SearchResult-1: term=852621196X cnt=0
 records returned: 0
-Elapsed: 0.191516
+Elapsed: 0.191646
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 238
 SearchResult-1: term=8506021189 cnt=1
 records returned: 0
-Elapsed: 0.191707
+Elapsed: 0.191848
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 239
 SearchResult-1: term=9788508068876 cnt=0
 records returned: 0
-Elapsed: 0.191592
+Elapsed: 0.191463
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 240
 SearchResult-1: term=9788565765312 cnt=1
 records returned: 0
-Elapsed: 0.191883
+Elapsed: 0.193452
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 241
 SearchResult-1: term=9788586488375 cnt=0
 records returned: 0
-Elapsed: 0.191567
+Elapsed: 0.190313
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 4, setno 242
 SearchResult-1: term=8526210408 cnt=4
 records returned: 0
-Elapsed: 0.191638
+Elapsed: 0.191903
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 243
 SearchResult-1: term=9788577230594 cnt=0
 records returned: 0
-Elapsed: 0.192130
+Elapsed: 0.191446
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 12, setno 244
 SearchResult-1: term=8574060259 cnt=12
 records returned: 0
-Elapsed: 0.191619
+Elapsed: 0.194773
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 245
 SearchResult-1: term=9788588809581 cnt=0
 records returned: 0
-Elapsed: 0.191665
+Elapsed: 0.191441
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 246
 SearchResult-1: term=9788541816038 cnt=1
 records returned: 0
-Elapsed: 0.191740
+Elapsed: 0.191878
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 247
 SearchResult-1: term=9788574061863 cnt=0
 records returned: 0
-Elapsed: 0.191735
+Elapsed: 0.191845
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 248
 SearchResult-1: term=9788516058265 cnt=1
 records returned: 0
-Elapsed: 0.191634
+Elapsed: 0.192473
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 249
 SearchResult-1: term=9788574065090 cnt=1
 records returned: 0
-Elapsed: 0.191917
+Elapsed: 0.191198
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 250
 SearchResult-1: term=9788545400325 cnt=1
 records returned: 0
-Elapsed: 0.191743
+Elapsed: 0.191912
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 251
 SearchResult-1: term=9788567751023 cnt=0
 records returned: 0
-Elapsed: 0.191992
+Elapsed: 0.191346
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 252
 SearchResult-1: term=9788578160401 cnt=1
 records returned: 0
-Elapsed: 0.191659
+Elapsed: 0.191689
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 253
 SearchResult-1: term=9788561521943 cnt=1
 records returned: 0
-Elapsed: 0.191970
+Elapsed: 0.191960
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 254
 SearchResult-1: term=9788571648982 cnt=0
 records returned: 0
-Elapsed: 0.191391
+Elapsed: 0.191217
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 3, setno 255
 SearchResult-1: term=8526210440 cnt=3
 records returned: 0
-Elapsed: 0.191867
+Elapsed: 0.190844
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 256
 SearchResult-1: term=9788574061290 cnt=0
 records returned: 0
-Elapsed: 0.191391
+Elapsed: 0.191805
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 15, setno 257
 SearchResult-1: term=8585466960 cnt=15
 records returned: 0
-Elapsed: 0.191672
+Elapsed: 0.191861
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 6, setno 258
 SearchResult-1: term=9788574063430 cnt=6
 records returned: 0
-Elapsed: 0.191404
+Elapsed: 0.191778
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 259
 SearchResult-1: term=8536801018 cnt=1
 records returned: 0
-Elapsed: 0.191745
+Elapsed: 0.193378
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 260
 SearchResult-1: term=8532508138 cnt=1
 records returned: 0
-Elapsed: 0.191811
+Elapsed: 0.196650
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 261
 SearchResult-1: term=9788535925586 cnt=1
 records returned: 0
-Elapsed: 0.191780
+Elapsed: 0.192271
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 262
 SearchResult-1: term=8535908595 cnt=1
 records returned: 0
-Elapsed: 0.191664
+Elapsed: 0.191111
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 263
 SearchResult-1: term=9788574064376 cnt=1
 records returned: 0
-Elapsed: 0.191630
+Elapsed: 0.191737
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 264
 SearchResult-1: term=9788508054350 cnt=0
 records returned: 0
-Elapsed: 0.191807
+Elapsed: 0.191987
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 8, setno 265
 SearchResult-1: term=8585466936 cnt=8
 records returned: 0
-Elapsed: 0.191717
+Elapsed: 0.190916
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 266
 SearchResult-1: term=9788508081905 cnt=0
 records returned: 0
-Elapsed: 0.191811
+Elapsed: 0.191878
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 267
 SearchResult-1: term=9788555340338 cnt=1
 records returned: 0
-Elapsed: 0.191759
+Elapsed: 0.191830
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 268
 SearchResult-1: term=85854677 cnt=0
 records returned: 0
-Elapsed: 0.191607
+Elapsed: 0.191930
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 269
 SearchResult-1: term=9788578064147 cnt=0
 records returned: 0
-Elapsed: 0.191806
+Elapsed: 0.197318
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 270
 SearchResult-1: term=9788574062891 cnt=1
 records returned: 0
-Elapsed: 0.191516
+Elapsed: 0.192951
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 271
 SearchResult-1: term=8574061557 cnt=2
 records returned: 0
-Elapsed: 0.192008
+Elapsed: 0.191213
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 272
 SearchResult-1: term=9788573592207 cnt=0
 records returned: 0
-Elapsed: 0.191682
+Elapsed: 0.192058
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 273
 SearchResult-1: term=8573026596 cnt=1
 records returned: 0
-Elapsed: 0.191703
+Elapsed: 0.191267
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 3, setno 274
 SearchResult-1: term=8571649391 cnt=3
 records returned: 0
-Elapsed: 0.191966
+Elapsed: 0.191914
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 5, setno 275
 SearchResult-1: term=857406159X cnt=5
 records returned: 0
-Elapsed: 0.191744
+Elapsed: 0.191758
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 276
 SearchResult-1: term=9788508120437 cnt=1
 records returned: 0
-Elapsed: 0.191888
+Elapsed: 0.191917
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 277
 SearchResult-1: term=9788574064772 cnt=1
 records returned: 0
-Elapsed: 0.191449
+Elapsed: 0.191894
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 278
 SearchResult-1: term=8574061239 cnt=1
 records returned: 0
-Elapsed: 0.191740
+Elapsed: 0.191272
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 279
 SearchResult-1: term=857406158I cnt=0
 records returned: 0
-Elapsed: 0.191632
+Elapsed: 0.192789
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 280
 SearchResult-1: term=97885359011917 cnt=0
 records returned: 0
-Elapsed: 0.191855
+Elapsed: 0.190981
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 281
 SearchResult-1: term=9788535628159 cnt=1
 records returned: 0
-Elapsed: 0.191592
+Elapsed: 0.191977
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 282
 SearchResult-1: term=9788535914818 cnt=1
 records returned: 0
-Elapsed: 0.191986
+Elapsed: 0.191405
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 283
 SearchResult-1: term=9788574063393 cnt=1
 records returned: 0
-Elapsed: 0.191582
+Elapsed: 0.191863
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 284
 SearchResult-1: term=9788534705332 cnt=1
 records returned: 0
-Elapsed: 0.192114
+Elapsed: 0.191841
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 285
 SearchResult-1: term=9788526016033 cnt=2
 records returned: 0
-Elapsed: 0.191338
+Elapsed: 0.191935
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 286
 SearchResult-1: term=9788574063843 cnt=1
 records returned: 0
-Elapsed: 0.191714
+Elapsed: 0.191792
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 287
 SearchResult-1: term=85854677 cnt=0
 records returned: 0
-Elapsed: 0.191458
+Elapsed: 0.191575
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 288
 SearchResult-1: term=8506033667 cnt=1
 records returned: 0
-Elapsed: 0.191807
+Elapsed: 0.192301
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 289
 SearchResult-1: term=8575960482 cnt=0
 records returned: 0
-Elapsed: 0.191484
+Elapsed: 0.191213
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 290
 SearchResult-1: term=9788535912203 cnt=1
 records returned: 0
-Elapsed: 0.192068
+Elapsed: 0.192022
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 8, setno 291
 SearchResult-1: term=8585466936 cnt=8
 records returned: 0
-Elapsed: 0.191805
+Elapsed: 0.191366
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 292
 SearchResult-1: term=9788508145553 cnt=0
 records returned: 0
-Elapsed: 0.191725
+Elapsed: 0.191778
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 293
 SearchResult-1: term=8524910755 cnt=2
 records returned: 0
-Elapsed: 0.191607
+Elapsed: 0.191963
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 294
 SearchResult-1: term=9788500020247 cnt=0
 records returned: 0
-Elapsed: 0.192110
+Elapsed: 0.192255
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 295
 SearchResult-1: term=9788560931880 cnt=0
 records returned: 0
-Elapsed: 0.191608
+Elapsed: 0.190881
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 296
 SearchResult-1: term=9788567854137 cnt=1
 records returned: 0
-Elapsed: 0.191505
+Elapsed: 0.198293
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 297
 SearchResult-1: term=9788560931873 cnt=0
 records returned: 0
-Elapsed: 0.191642
+Elapsed: 0.192303
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 298
 SearchResult-1: term=9788582170663 cnt=0
 records returned: 0
-Elapsed: 0.191840
+Elapsed: 0.191432
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 299
 SearchResult-1: term=9788573263459 cnt=1
 records returned: 0
-Elapsed: 0.191481
+Elapsed: 0.191149
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 300
 SearchResult-1: term=9788577230273 cnt=1
 records returned: 0
-Elapsed: 0.192153
+Elapsed: 0.192401
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 301
 SearchResult-1: term=8599798014 cnt=0
 records returned: 0
-Elapsed: 0.191381
+Elapsed: 0.194792
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 302
 SearchResult-1: term=8508042671 cnt=1
 records returned: 0
-Elapsed: 0.192046
+Elapsed: 0.190665
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 5, setno 303
 SearchResult-1: term=8511190155 cnt=5
 records returned: 0
-Elapsed: 0.192019
+Elapsed: 0.191740
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 4, setno 304
 SearchResult-1: term=8500906707 cnt=4
 records returned: 0
-Elapsed: 0.191560
+Elapsed: 0.191823
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 305
 SearchResult-1: term=9788573022247 cnt=0
 records returned: 0
-Elapsed: 0.191459
+Elapsed: 0.191624
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 306
 SearchResult-1: term=9788562689758 cnt=0
 records returned: 0
-Elapsed: 0.191919
+Elapsed: 0.191993
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 307
 SearchResult-1: term=857448007X cnt=2
 records returned: 0
-Elapsed: 0.191715
+Elapsed: 0.191853
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 10, setno 308
 SearchResult-1: term=8511190015 cnt=10
 records returned: 0
-Elapsed: 0.195152
+Elapsed: 0.191049
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 309
 SearchResult-1: term=9788508045280 cnt=0
 records returned: 0
-Elapsed: 0.194729
+Elapsed: 0.192165
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 310
 SearchResult-1: term=9788508053834 cnt=0
 records returned: 0
-Elapsed: 0.191752
+Elapsed: 0.191103
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 311
 SearchResult-1: term=8500722495 cnt=1
 records returned: 0
-Elapsed: 0.191574
+Elapsed: 0.192331
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 312
 SearchResult-1: term=9788535931136 cnt=1
 records returned: 0
-Elapsed: 0.191767
+Elapsed: 0.191482
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 313
 SearchResult-1: term=9783833112706 cnt=0
 records returned: 0
-Elapsed: 0.191466
+Elapsed: 0.192186
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 314
 SearchResult-1: term=9788565771023 cnt=2
 records returned: 0
-Elapsed: 0.191972
+Elapsed: 0.191439
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 315
 SearchResult-1: term=9788501115591 cnt=1
 records returned: 0
-Elapsed: 0.191614
+Elapsed: 0.191810
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 316
 SearchResult-1: term=9788535925470 cnt=2
 records returned: 0
-Elapsed: 0.191543
+Elapsed: 0.192172
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 317
 SearchResult-1: term=9788508026883 cnt=0
 records returned: 0
-Elapsed: 0.191689
+Elapsed: 0.191294
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 318
 SearchResult-1: term=9788535928518 cnt=1
 records returned: 0
-Elapsed: 0.191717
+Elapsed: 0.191422
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 319
 SearchResult-1: term=9788508083183 cnt=0
 records returned: 0
-Elapsed: 0.191543
+Elapsed: 0.192049
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 320
 SearchResult-1: term=9788560931934 cnt=0
 records returned: 0
-Elapsed: 0.191940
+Elapsed: 0.191912
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 321
 SearchResult-1: term=8574060224 cnt=2
 records returned: 0
-Elapsed: 0.191546
+Elapsed: 0.191130
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 322
 SearchResult-1: term=9788535901566 cnt=0
 records returned: 0
-Elapsed: 0.191920
+Elapsed: 0.191220
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 323
 SearchResult-1: term=8574480142 cnt=1
 records returned: 0
-Elapsed: 0.191681
+Elapsed: 0.191945
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 324
 SearchResult-1: term=9788566624120 cnt=0
 records returned: 0
-Elapsed: 0.191628
+Elapsed: 0.191802
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 325
 SearchResult-1: term=8574060518 cnt=2
 records returned: 0
-Elapsed: 0.191664
+Elapsed: 0.191790
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 326
 SearchResult-1: term=9788520932537 cnt=0
 records returned: 0
-Elapsed: 0.191854
+Elapsed: 0.192244
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 327
 SearchResult-1: term=9788530806477 cnt=0
 records returned: 0
-Elapsed: 0.191859
+Elapsed: 0.191713
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 328
 SearchResult-1: term=9788578880101 cnt=1
 records returned: 0
-Elapsed: 0.191727
+Elapsed: 0.193217
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 329
 SearchResult-1: term=8532519474 cnt=1
 records returned: 0
-Elapsed: 0.191617
+Elapsed: 0.198010
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 330
 SearchResult-1: term=9788577430154 cnt=2
 records returned: 0
-Elapsed: 0.191815
+Elapsed: 0.190452
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 331
 SearchResult-1: term=9788506053034 cnt=1
 records returned: 0
-Elapsed: 0.191762
+Elapsed: 0.192425
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 332
 SearchResult-1: term=9788574060354 cnt=2
 records returned: 0
-Elapsed: 0.191487
+Elapsed: 0.191181
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 8, setno 333
 SearchResult-1: term=8571647186 cnt=8
 records returned: 0
-Elapsed: 0.192152
+Elapsed: 0.191651
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 334
 SearchResult-1: term=9788596004329 cnt=1
 records returned: 0
-Elapsed: 0.191561
+Elapsed: 0.191627
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 335
 SearchResult-1: term=9788562500541 cnt=1
 records returned: 0
-Elapsed: 0.191720
+Elapsed: 0.192089
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 336
 SearchResult-1: term=9788585466916 cnt=0
 records returned: 0
-Elapsed: 0.191578
+Elapsed: 0.191892
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 337
 SearchResult-1: term=9788575036686 cnt=0
 records returned: 0
-Elapsed: 0.191678
+Elapsed: 0.191766
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 338
 SearchResult-1: term=9788585466862 cnt=1
 records returned: 0
-Elapsed: 0.191583
+Elapsed: 0.191932
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 339
 SearchResult-1: term=9788566642308 cnt=1
 records returned: 0
-Elapsed: 0.191963
+Elapsed: 0.190730
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 3, setno 340
 SearchResult-1: term=9788535921311 cnt=3
 records returned: 0
-Elapsed: 0.191601
+Elapsed: 0.192009
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 341
 SearchResult-1: term=8574060283 cnt=2
 records returned: 0
-Elapsed: 0.192025
+Elapsed: 0.191844
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 342
 SearchResult-1: term=9788541812467 cnt=1
 records returned: 0
-Elapsed: 0.191609
+Elapsed: 0.191705
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 343
 SearchResult-1: term=8585642149 cnt=1
 records returned: 0
-Elapsed: 0.191560
+Elapsed: 0.191448
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 6, setno 344
 SearchResult-1: term=8574060119 cnt=6
 records returned: 0
-Elapsed: 0.191658
+Elapsed: 0.191334
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 345
 SearchResult-1: term=9788574065014 cnt=1
 records returned: 0
-Elapsed: 0.191951
+Elapsed: 0.191810
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 346
 SearchResult-1: term=9788578279837 cnt=1
 records returned: 0
-Elapsed: 0.192834
+Elapsed: 0.191544
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 347
 SearchResult-1: term=8574061840 cnt=1
 records returned: 0
-Elapsed: 0.190912
+Elapsed: 0.191645
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 348
 SearchResult-1: term=9788574063881 cnt=1
 records returned: 0
-Elapsed: 0.191329
+Elapsed: 0.192052
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 6, setno 349
 SearchResult-1: term=8585466421 cnt=6
 records returned: 0
-Elapsed: 0.192033
+Elapsed: 0.192077
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 3, setno 350
 SearchResult-1: term=9788585466299 cnt=3
 records returned: 0
-Elapsed: 0.191428
+Elapsed: 0.191768
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 351
 SearchResult-1: term=8574060577 cnt=1
 records returned: 0
-Elapsed: 0.191920
+Elapsed: 0.191560
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 352
 SearchResult-1: term=8522004013 cnt=0
 records returned: 0
-Elapsed: 0.191967
+Elapsed: 0.193098
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 353
 SearchResult-1: term=9788563137715 cnt=0
 records returned: 0
-Elapsed: 0.191360
+Elapsed: 0.190679
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 354
 SearchResult-1: term=9788573264036 cnt=1
 records returned: 0
-Elapsed: 0.191712
+Elapsed: 0.192166
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 355
 SearchResult-1: term=9788586488580 cnt=0
 records returned: 0
-Elapsed: 0.194045
+Elapsed: 0.191566
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 356
 SearchResult-1: term=9788574061948 cnt=1
 records returned: 0
-Elapsed: 0.195596
+Elapsed: 0.191636
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 357
 SearchResult-1: term=9788595710467 cnt=0
 records returned: 0
-Elapsed: 0.192625
+Elapsed: 0.192014
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 358
 SearchResult-1: term=8522005230 cnt=0
 records returned: 0
-Elapsed: 0.190714
+Elapsed: 0.191545
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 359
 SearchResult-1: term=9788560028023 cnt=0
 records returned: 0
-Elapsed: 0.191602
+Elapsed: 0.191871
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 360
 SearchResult-1: term=9788567296005 cnt=1
 records returned: 0
-Elapsed: 0.191799
+Elapsed: 0.191700
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 361
 SearchResult-1: term=9788582260203 cnt=0
 records returned: 0
-Elapsed: 0.191434
+Elapsed: 0.191913
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 362
 SearchResult-1: term=8508062184 cnt=2
 records returned: 0
-Elapsed: 0.191900
+Elapsed: 0.191944
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 363
 SearchResult-1: term=9788580620054 cnt=1
 records returned: 0
-Elapsed: 0.191637
+Elapsed: 0.191969
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 364
 SearchResult-1: term=97885722087506 cnt=0
 records returned: 0
-Elapsed: 0.191741
+Elapsed: 0.196881
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 365
 SearchResult-1: term=9788582354582 cnt=1
 records returned: 0
-Elapsed: 0.192065
+Elapsed: 0.191679
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 366
 SearchResult-1: term=9788599296943 cnt=1
 records returned: 0
-Elapsed: 0.191489
+Elapsed: 0.191708
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 367
 SearchResult-1: term=9788541803939 cnt=0
 records returned: 0
-Elapsed: 0.191498
+Elapsed: 0.192136
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 368
 SearchResult-1: term=9788587433091 cnt=0
 records returned: 0
-Elapsed: 0.191720
+Elapsed: 0.191986
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 369
 SearchResult-1: term=9788560028047 cnt=1
 records returned: 0
-Elapsed: 0.191673
+Elapsed: 0.190728
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 370
 SearchResult-1: term=9788599296950 cnt=1
 records returned: 0
-Elapsed: 0.191568
+Elapsed: 0.194759
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 371
 SearchResult-1: term=9788599296974 cnt=1
 records returned: 0
-Elapsed: 0.191830
+Elapsed: 0.194593
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 372
 SearchResult-1: term=97885992969677 cnt=0
 records returned: 0
-Elapsed: 0.191590
+Elapsed: 0.191462
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 373
 SearchResult-1: term=9788533613690 cnt=0
 records returned: 0
-Elapsed: 0.191865
+Elapsed: 0.192165
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 374
 SearchResult-1: term=9726952654 cnt=0
 records returned: 0
-Elapsed: 0.191713
+Elapsed: 0.191277
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 375
 SearchResult-1: term=9788550408712 cnt=1
 records returned: 0
-Elapsed: 0.191534
+Elapsed: 0.191966
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 376
 SearchResult-1: term=9788525420930 cnt=0
 records returned: 0
-Elapsed: 0.191480
+Elapsed: 0.192107
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 3, setno 377
 SearchResult-1: term=9788535913682 cnt=3
 records returned: 0
-Elapsed: 0.191826
+Elapsed: 0.191531
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 378
 SearchResult-1: term=8585328827 cnt=0
 records returned: 0
-Elapsed: 0.191694
+Elapsed: 0.191621
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 379
 SearchResult-1: term=8585466944 cnt=2
 records returned: 0
-Elapsed: 0.191785
+Elapsed: 0.191853
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 380
 SearchResult-1: term=8574060208 cnt=2
 records returned: 0
-Elapsed: 0.192210
+Elapsed: 0.191645
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 381
 SearchResult-1: term=8574061433 cnt=1
 records returned: 0
-Elapsed: 0.191399
+Elapsed: 0.191976
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 5, setno 382
 SearchResult-1: term=8574060321 cnt=5
 records returned: 0
-Elapsed: 0.191890
+Elapsed: 0.191600
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 383
 SearchResult-1: term=9788574063041 cnt=1
 records returned: 0
-Elapsed: 0.191580
+Elapsed: 0.191815
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 3, setno 384
 SearchResult-1: term=8574061255 cnt=3
 records returned: 0
-Elapsed: 0.191669
+Elapsed: 0.191772
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 385
 SearchResult-1: term=9788561041687 cnt=1
 records returned: 0
-Elapsed: 0.191815
+Elapsed: 0.192012
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 386
 SearchResult-1: term=9788575038376 cnt=1
 records returned: 0
-Elapsed: 0.191823
+Elapsed: 0.191557
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 387
 SearchResult-1: term=9788576950165 cnt=0
 records returned: 0
-Elapsed: 0.191648
+Elapsed: 0.191683
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 388
 SearchResult-1: term=8586075108 cnt=2
 records returned: 0
-Elapsed: 0.191803
+Elapsed: 0.192054
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 389
 SearchResult-1: term=8525400939 cnt=1
 records returned: 0
-Elapsed: 0.191556
+Elapsed: 0.193136
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 390
 SearchResult-1: term=9788574068572 cnt=1
 records returned: 0
-Elapsed: 0.191759
+Elapsed: 0.195102
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 391
 SearchResult-1: term=8599911015 cnt=0
 records returned: 0
-Elapsed: 0.191754
+Elapsed: 0.193925
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 392
 SearchResult-1: term=8500422769 cnt=1
 records returned: 0
-Elapsed: 0.191910
+Elapsed: 0.195573
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 393
 SearchResult-1: term=1551859734 cnt=0
 records returned: 0
-Elapsed: 0.191623
+Elapsed: 0.195051
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 7, setno 394
 SearchResult-1: term=8571646643 cnt=7
 records returned: 0
-Elapsed: 0.191887
+Elapsed: 0.194533
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 395
 SearchResult-1: term=9788593828126 cnt=1
 records returned: 0
-Elapsed: 0.191786
+Elapsed: 0.194583
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 396
 SearchResult-1: term=9788539005826 cnt=1
 records returned: 0
-Elapsed: 0.191685
+Elapsed: 0.191980
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 397
 SearchResult-1: term=9788555328719 cnt=0
 records returned: 0
-Elapsed: 0.191636
+Elapsed: 0.191329
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 398
 SearchResult-1: term=9788525424648 cnt=1
 records returned: 0
-Elapsed: 0.191921
+Elapsed: 0.192398
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 399
 SearchResult-1: term=9788564974647 cnt=0
 records returned: 0
-Elapsed: 0.192138
+Elapsed: 0.190935
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 400
 SearchResult-1: term=9788587478368 cnt=1
 records returned: 0
-Elapsed: 0.191030
+Elapsed: 0.191312
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 401
 SearchResult-1: term=9788577992089 cnt=0
 records returned: 0
-Elapsed: 0.191439
+Elapsed: 0.191315
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 402
 SearchResult-1: term=8535901604 cnt=1
 records returned: 0
-Elapsed: 0.191981
+Elapsed: 0.191639
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 403
 SearchResult-1: term=9798520919070 cnt=0
 records returned: 0
-Elapsed: 0.191489
+Elapsed: 0.192254
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 404
 SearchResult-1: term=8575940333 cnt=1
 records returned: 0
-Elapsed: 0.191997
+Elapsed: 0.191474
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 405
 SearchResult-1: term=8525007420 cnt=1
 records returned: 0
-Elapsed: 0.192190
+Elapsed: 0.191868
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 406
 SearchResult-1: term=8571062501 cnt=1
 records returned: 0
-Elapsed: 0.191215
+Elapsed: 0.191117
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 407
 SearchResult-1: term=9788571644755 cnt=0
 records returned: 0
-Elapsed: 0.191680
+Elapsed: 0.191312
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 408
 SearchResult-1: term=9788581660141 cnt=1
 records returned: 0
-Elapsed: 0.191798
+Elapsed: 0.191639
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 409
 SearchResult-1: term=9788535911572 cnt=1
 records returned: 0
-Elapsed: 0.191866
+Elapsed: 0.192173
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 410
 SearchResult-1: term=9788587193674 cnt=0
 records returned: 0
-Elapsed: 0.191790
+Elapsed: 0.192179
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 411
 SearchResult-1: term=9788576572008 cnt=1
 records returned: 0
-Elapsed: 0.191673
+Elapsed: 0.191399
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 412
 SearchResult-1: term=9788560499373 cnt=1
 records returned: 0
-Elapsed: 0.191992
+Elapsed: 0.191726
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 6, setno 413
 SearchResult-1: term=9788535907124 cnt=6
 records returned: 0
-Elapsed: 0.191689
+Elapsed: 0.191701
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 414
 SearchResult-1: term=9788535915518 cnt=1
 records returned: 0
-Elapsed: 0.191746
+Elapsed: 0.190985
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 415
 SearchResult-1: term=9788574062754 cnt=1
 records returned: 0
-Elapsed: 0.191799
+Elapsed: 0.191820
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 3, setno 416
 SearchResult-1: term=9788535917109 cnt=3
 records returned: 0
-Elapsed: 0.191713
+Elapsed: 0.191879
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 417
 SearchResult-1: term=9788535914580 cnt=1
 records returned: 0
-Elapsed: 0.191613
+Elapsed: 0.191876
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 418
 SearchResult-1: term=9788535921939 cnt=1
 records returned: 0
-Elapsed: 0.191384
+Elapsed: 0.191912
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 419
 SearchResult-1: term=9722010077 cnt=0
 records returned: 0
-Elapsed: 0.192298
+Elapsed: 0.192033
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 420
 SearchResult-1: term=8585851627 cnt=1
 records returned: 0
-Elapsed: 0.191609
+Elapsed: 0.191985
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 421
 SearchResult-1: term=9788571647633 cnt=1
 records returned: 0
-Elapsed: 0.191802
+Elapsed: 0.190790
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 422
 SearchResult-1: term=9788525415608 cnt=0
 records returned: 0
-Elapsed: 0.191495
+Elapsed: 0.191931
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 423
 SearchResult-1: term=9788535915556 cnt=1
 records returned: 0
-Elapsed: 0.191296
+Elapsed: 0.191962
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 424
 SearchResult-1: term=9788535920673 cnt=0
 records returned: 0
-Elapsed: 0.196734
+Elapsed: 0.195039
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 425
 SearchResult-1: term=8516003256 cnt=1
 records returned: 0
-Elapsed: 0.193267
+Elapsed: 0.195177
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 426
 SearchResult-1: term=8571644101 cnt=1
 records returned: 0
-Elapsed: 0.191762
+Elapsed: 0.191075
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 3, setno 427
 SearchResult-1: term=9788535910247 cnt=3
 records returned: 0
-Elapsed: 0.191533
+Elapsed: 0.191844
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 428
 SearchResult-1: term=8501045489 cnt=1
 records returned: 0
-Elapsed: 0.192176
+Elapsed: 0.192458
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 429
 SearchResult-1: term=851151290X cnt=0
 records returned: 0
-Elapsed: 0.191321
+Elapsed: 0.190750
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 430
 SearchResult-1: term=8511515712 cnt=0
 records returned: 0
-Elapsed: 0.191756
+Elapsed: 0.191977
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 431
 SearchResult-1: term=8528606775 cnt=1
 records returned: 0
-Elapsed: 0.191603
+Elapsed: 0.191827
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 14, setno 432
 SearchResult-1: term=9788535911121 cnt=14
 records returned: 0
-Elapsed: 0.191767
+Elapsed: 0.191660
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 433
 SearchResult-1: term=8511512748 cnt=1
 records returned: 0
-Elapsed: 0.191623
+Elapsed: 0.192016
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 434
 SearchResult-1: term=9788535910858 cnt=1
 records returned: 0
-Elapsed: 0.191974
+Elapsed: 0.191443
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 435
 SearchResult-1: term=8535909214 cnt=1
 records returned: 0
-Elapsed: 0.191601
+Elapsed: 0.191844
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 436
 SearchResult-1: term=9788532522337 cnt=1
 records returned: 0
-Elapsed: 0.191982
+Elapsed: 0.192240
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 437
 SearchResult-1: term=8508017073 cnt=1
 records returned: 0
-Elapsed: 0.191563
+Elapsed: 0.191864
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 438
 SearchResult-1: term=9788533611658 cnt=0
 records returned: 0
-Elapsed: 0.191822
+Elapsed: 0.191226
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 439
 SearchResult-1: term=9788560610013 cnt=2
 records returned: 0
-Elapsed: 0.191813
+Elapsed: 0.192085
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 440
 SearchResult-1: term=9788535920604 cnt=1
 records returned: 0
-Elapsed: 0.191644
+Elapsed: 0.191662
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 5, setno 441
 SearchResult-1: term=8500912596 cnt=5
 records returned: 0
-Elapsed: 0.191703
+Elapsed: 0.191937
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 442
 SearchResult-1: term=8586218227 cnt=1
 records returned: 0
-Elapsed: 0.191768
+Elapsed: 0.191593
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 443
 SearchResult-1: term=8585940654 cnt=0
 records returned: 0
-Elapsed: 0.192274
+Elapsed: 0.191789
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 444
 SearchResult-1: term=8526001876 cnt=1
 records returned: 0
-Elapsed: 0.191570
+Elapsed: 0.192095
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 445
 SearchResult-1: term=8505004469 cnt=1
 records returned: 0
-Elapsed: 0.191537
+Elapsed: 0.191798
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 7, setno 446
 SearchResult-1: term=9788535900804 cnt=7
 records returned: 0
-Elapsed: 0.191496
+Elapsed: 0.191561
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 447
 SearchResult-1: term=9788580575569 cnt=1
 records returned: 0
-Elapsed: 0.191623
+Elapsed: 0.191935
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 448
 SearchResult-1: term=9788501099518 cnt=1
 records returned: 0
-Elapsed: 0.191766
+Elapsed: 0.191160
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 449
 SearchResult-1: term=852500054X cnt=0
 records returned: 0
-Elapsed: 0.191656
+Elapsed: 0.192613
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 450
 SearchResult-1: term=9788567097626 cnt=1
 records returned: 0
-Elapsed: 0.191751
+Elapsed: 0.191183
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 451
 SearchResult-1: term=8535909095 cnt=1
 records returned: 0
-Elapsed: 0.192374
+Elapsed: 0.191761
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 452
 SearchResult-1: term=9788535909975 cnt=1
 records returned: 0
-Elapsed: 0.191483
+Elapsed: 0.196265
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 453
 SearchResult-1: term=9788525045294 cnt=1
 records returned: 0
-Elapsed: 0.191388
+Elapsed: 0.195962
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 454
 SearchResult-1: term=9788579493324 cnt=1
 records returned: 0
-Elapsed: 0.191559
+Elapsed: 0.191049
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 455
 SearchResult-1: term=852860957 cnt=0
 records returned: 0
-Elapsed: 0.191695
+Elapsed: 0.191655
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 456
 SearchResult-1: term=9788576571346 cnt=1
 records returned: 0
-Elapsed: 0.191708
+Elapsed: 0.191748
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 457
 SearchResult-1: term=9788533613379 cnt=0
 records returned: 0
-Elapsed: 0.191600
+Elapsed: 0.192128
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 458
 SearchResult-1: term=9788535919660 cnt=1
 records returned: 0
-Elapsed: 0.192118
+Elapsed: 0.191180
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 459
 SearchResult-1: term=9788501091512 cnt=1
 records returned: 0
-Elapsed: 0.191362
+Elapsed: 0.191767
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 4, setno 460
 SearchResult-1: term=9788535923780 cnt=4
 records returned: 0
-Elapsed: 0.191595
+Elapsed: 0.192034
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 461
 SearchResult-1: term=853590526X cnt=1
 records returned: 0
-Elapsed: 0.191882
+Elapsed: 0.191798
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 462
 SearchResult-1: term=9788579490590 cnt=0
 records returned: 0
-Elapsed: 0.191558
+Elapsed: 0.192103
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 463
 SearchResult-1: term=9788579490569 cnt=0
 records returned: 0
-Elapsed: 0.191776
+Elapsed: 0.191468
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 464
 SearchResult-1: term=9788520919927 cnt=0
 records returned: 0
-Elapsed: 0.191592
+Elapsed: 0.191297
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 465
 SearchResult-1: term=8526210475 cnt=0
 records returned: 0
-Elapsed: 0.191805
+Elapsed: 0.192147
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 466
 SearchResult-1: term=8520004334 cnt=1
 records returned: 0
-Elapsed: 0.192384
+Elapsed: 0.191185
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 467
 SearchResult-1: term=9788571645813 cnt=0
 records returned: 0
-Elapsed: 0.191105
+Elapsed: 0.192321
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 468
 SearchResult-1: term=9788575594124 cnt=1
 records returned: 0
-Elapsed: 0.191744
+Elapsed: 0.194711
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 469
 SearchResult-1: term=9788535910865 cnt=1
 records returned: 0
-Elapsed: 0.191851
+Elapsed: 0.194869
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 470
 SearchResult-1: term=9788525422521 cnt=0
 records returned: 0
-Elapsed: 0.191658
+Elapsed: 0.191824
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 471
 SearchResult-1: term=9788525062024 cnt=0
 records returned: 0
-Elapsed: 0.191764
+Elapsed: 0.191974
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 472
 SearchResult-1: term=9788520009635 cnt=1
 records returned: 0
-Elapsed: 0.191691
+Elapsed: 0.192613
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 473
 SearchResult-1: term=9788525406132 cnt=0
 records returned: 0
-Elapsed: 0.191757
+Elapsed: 0.190936
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 6, setno 474
 SearchResult-1: term=9788535913811 cnt=6
 records returned: 0
-Elapsed: 0.192140
+Elapsed: 0.191916
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 5, setno 475
 SearchResult-1: term=8571649073 cnt=5
 records returned: 0
-Elapsed: 0.191319
+Elapsed: 0.191622
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 476
 SearchResult-1: term=9788525406132 cnt=0
 records returned: 0
-Elapsed: 0.191655
+Elapsed: 0.191874
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 477
 SearchResult-1: term=9788535912500 cnt=2
 records returned: 0
-Elapsed: 0.192000
+Elapsed: 0.191617
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 478
 SearchResult-1: term=9788598078311 cnt=1
 records returned: 0
-Elapsed: 0.191646
+Elapsed: 0.198987
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 479
 SearchResult-1: term=8570850018 cnt=0
 records returned: 0
-Elapsed: 0.192336
+Elapsed: 0.192088
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 480
 SearchResult-1: term=9788525417022 cnt=1
 records returned: 0
-Elapsed: 0.191300
+Elapsed: 0.196796
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 481
 SearchResult-1: term=9788571641495 cnt=2
 records returned: 0
-Elapsed: 0.191211
+Elapsed: 0.191622
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
-Number of hits: 2, setno 482
-SearchResult-1: term=9788535903430 cnt=2
+Number of hits: 3, setno 482
+SearchResult-1: term=9788535903430 cnt=3
 records returned: 0
-Elapsed: 0.191875
+Elapsed: 0.192155
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 483
 SearchResult-1: term=9788525416964 cnt=1
 records returned: 0
-Elapsed: 0.191555
+Elapsed: 0.191594
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 484
 SearchResult-1: term=8535906029 cnt=2
 records returned: 0
-Elapsed: 0.191834
+Elapsed: 0.191857
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 3, setno 485
 SearchResult-1: term=9788535921632 cnt=3
 records returned: 0
-Elapsed: 0.191990
+Elapsed: 0.191443
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 486
 SearchResult-1: term=9788571646407 cnt=0
 records returned: 0
-Elapsed: 0.191370
+Elapsed: 0.191961
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 3, setno 487
 SearchResult-1: term=9788535912562 cnt=3
 records returned: 0
-Elapsed: 0.191671
+Elapsed: 0.191515
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 488
 SearchResult-1: term=8571641692 cnt=1
 records returned: 0
-Elapsed: 0.191795
+Elapsed: 0.191911
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 489
 SearchResult-1: term=9788572323437 cnt=0
 records returned: 0
-Elapsed: 0.191717
+Elapsed: 0.192131
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 3, setno 490
 SearchResult-1: term=9788535921632 cnt=3
 records returned: 0
-Elapsed: 0.191645
+Elapsed: 0.191490
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 491
 SearchResult-1: term=8570302274 cnt=1
 records returned: 0
-Elapsed: 0.191599
+Elapsed: 0.191712
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 492
 SearchResult-1: term=8571643318 cnt=1
 records returned: 0
-Elapsed: 0.192138
+Elapsed: 0.191860
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 493
 SearchResult-1: term=9788520905883 cnt=0
 records returned: 0
-Elapsed: 0.191439
+Elapsed: 0.190924
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 5, setno 494
 SearchResult-1: term=8501012912 cnt=5
 records returned: 0
-Elapsed: 0.191702
+Elapsed: 0.192119
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 495
 SearchResult-1: term=9788575032916 cnt=1
 records returned: 0
-Elapsed: 0.191631
+Elapsed: 0.191646
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 496
 SearchResult-1: term=8511512667 cnt=1
 records returned: 0
-Elapsed: 0.191583
+Elapsed: 0.191264
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 497
 SearchResult-1: term=852500412X cnt=1
 records returned: 0
-Elapsed: 0.191859
+Elapsed: 0.191796
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 498
 SearchResult-1: term=8525006823 cnt=0
 records returned: 0
-Elapsed: 0.191369
+Elapsed: 0.192147
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 499
 SearchResult-1: term=8535908420 cnt=1
 records returned: 0
-Elapsed: 0.191981
+Elapsed: 0.191361
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 500
 SearchResult-1: term=9788535906028 cnt=1
 records returned: 0
-Elapsed: 0.191826
+Elapsed: 0.191315
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 501
 SearchResult-1: term=9788535924343 cnt=2
 records returned: 0
-Elapsed: 0.191615
+Elapsed: 0.191991
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 3, setno 502
 SearchResult-1: term=9788535912562 cnt=3
 records returned: 0
-Elapsed: 0.191646
+Elapsed: 0.191422
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
-Number of hits: 2, setno 503
-SearchResult-1: term=9788535903430 cnt=2
+Number of hits: 3, setno 503
+SearchResult-1: term=9788535903430 cnt=3
 records returned: 0
-Elapsed: 0.195614
+Elapsed: 0.191837
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 504
 SearchResult-1: term=9788535919363 cnt=2
 records returned: 0
-Elapsed: 0.194262
+Elapsed: 0.192048
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 505
 SearchResult-1: term=9788535909845 cnt=2
 records returned: 0
-Elapsed: 0.191746
+Elapsed: 0.192824
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 4, setno 506
 SearchResult-1: term=9788535910445 cnt=4
 records returned: 0
-Elapsed: 0.191715
+Elapsed: 0.196318
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 3, setno 507
 SearchResult-1: term=9788535920529 cnt=3
 records returned: 0
-Elapsed: 0.191713
+Elapsed: 0.193821
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 508
 SearchResult-1: term=8510303959 cnt=1
 records returned: 0
-Elapsed: 0.191752
+Elapsed: 0.195120
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 509
 SearchResult-1: term=8520904386 cnt=1
 records returned: 0
-Elapsed: 0.191538
+Elapsed: 0.196220
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 510
 SearchResult-1: term=8510303797 cnt=1
 records returned: 0
-Elapsed: 0.191567
+Elapsed: 0.191185
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 511
 SearchResult-1: term=8526500376 cnt=2
 records returned: 0
-Elapsed: 0.191539
+Elapsed: 0.192205
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 512
 SearchResult-1: term=853321216X cnt=1
 records returned: 0
-Elapsed: 0.191977
+Elapsed: 0.194758
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 513
 SearchResult-1: term=8525408689 cnt=2
 records returned: 0
-Elapsed: 0.191610
+Elapsed: 0.191901
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 514
 SearchResult-1: term=9788535918670 cnt=1
 records returned: 0
-Elapsed: 0.191733
+Elapsed: 0.191353
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 515
 SearchResult-1: term=8520903835 cnt=2
 records returned: 0
-Elapsed: 0.191488
+Elapsed: 0.191635
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 516
 SearchResult-1: term=8501066737 cnt=1
 records returned: 0
-Elapsed: 0.192065
+Elapsed: 0.195465
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 517
 SearchResult-1: term=972290289X cnt=0
 records returned: 0
-Elapsed: 0.191563
+Elapsed: 0.190434
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 518
 SearchResult-1: term=8510303614 cnt=1
 records returned: 0
-Elapsed: 0.191767
+Elapsed: 0.192019
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 519
 SearchResult-1: term=9788535907612 cnt=0
 records returned: 0
-Elapsed: 0.191881
+Elapsed: 0.191241
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 520
 SearchResult-1: term=9725642996 cnt=0
 records returned: 0
-Elapsed: 0.191687
+Elapsed: 0.193933
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 521
 SearchResult-1: term=8503000148 cnt=0
 records returned: 0
-Elapsed: 0.192068
+Elapsed: 0.196561
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 522
 SearchResult-1: term=853590437 cnt=0
 records returned: 0
-Elapsed: 0.191168
+Elapsed: 0.191233
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 523
 SearchResult-1: term=9788565765404 cnt=2
 records returned: 0
-Elapsed: 0.192012
+Elapsed: 0.191542
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 524
 SearchResult-1: term=8508051190 cnt=2
 records returned: 0
-Elapsed: 0.191607
+Elapsed: 0.192425
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 525
 SearchResult-1: term=8598375012 cnt=1
 records returned: 0
-Elapsed: 0.191587
+Elapsed: 0.192419
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 4, setno 526
 SearchResult-1: term=9788565771047 cnt=4
 records returned: 0
-Elapsed: 0.191876
+Elapsed: 0.197704
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 527
 SearchResult-1: term=9788565771016 cnt=2
 records returned: 0
-Elapsed: 0.191795
+Elapsed: 0.197352
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 528
 SearchResult-1: term=9788508086528 cnt=0
 records returned: 0
-Elapsed: 0.192333
+Elapsed: 0.191435
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 529
 SearchResult-1: term=9788577153138 cnt=1
 records returned: 0
-Elapsed: 0.191133
+Elapsed: 0.191652
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 3, setno 530
 SearchResult-1: term=8535904468 cnt=3
 records returned: 0
-Elapsed: 0.191641
+Elapsed: 0.191318
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 531
 SearchResult-1: term=9788535915372 cnt=1
 records returned: 0
-Elapsed: 0.191804
+Elapsed: 0.191856
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 532
 SearchResult-1: term=8508051190 cnt=2
 records returned: 0
-Elapsed: 0.191685
+Elapsed: 0.192011
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 533
 SearchResult-1: term=9788528620474 cnt=1
 records returned: 0
-Elapsed: 0.191644
+Elapsed: 0.191573
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 534
 SearchResult-1: term=9788588809574 cnt=0
 records returned: 0
-Elapsed: 0.191731
+Elapsed: 0.191310
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 535
 SearchResult-1: term=9788516071127 cnt=1
 records returned: 0
-Elapsed: 0.191603
+Elapsed: 0.192205
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 536
 SearchResult-1: term=9788535629347 cnt=1
 records returned: 0
-Elapsed: 0.191648
+Elapsed: 0.191128
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 537
 SearchResult-1: term=8501063770 cnt=1
 records returned: 0
-Elapsed: 0.191735
+Elapsed: 0.192153
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 538
 SearchResult-1: term=9788508047291 cnt=0
 records returned: 0
-Elapsed: 0.191445
+Elapsed: 0.190772
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 539
 SearchResult-1: term=9788508058969 cnt=0
 records returned: 0
-Elapsed: 0.191861
+Elapsed: 0.192035
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 540
 SearchResult-1: term=9788535917413 cnt=1
 records returned: 0
-Elapsed: 0.192016
+Elapsed: 0.191208
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 541
 SearchResult-1: term=9788503010849 cnt=1
 records returned: 0
-Elapsed: 0.191551
+Elapsed: 0.192453
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 542
 SearchResult-1: term=85325088X cnt=0
 records returned: 0
-Elapsed: 0.191558
+Elapsed: 0.191168
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 543
 SearchResult-1: term=9788574061450 cnt=0
 records returned: 0
-Elapsed: 0.192039
+Elapsed: 0.191939
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 544
 SearchResult-1: term=9788577230464 cnt=1
 records returned: 0
-Elapsed: 0.191690
+Elapsed: 0.191485
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 545
 SearchResult-1: term=9788573161823 cnt=0
 records returned: 0
-Elapsed: 0.191571
+Elapsed: 0.192140
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 5, setno 546
 SearchResult-1: term=9788574060255 cnt=5
 records returned: 0
-Elapsed: 0.191873
+Elapsed: 0.191527
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 547
 SearchResult-1: term=9788575035764 cnt=1
 records returned: 0
-Elapsed: 0.191522
+Elapsed: 0.192457
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 548
 SearchResult-1: term=9788575035771 cnt=1
 records returned: 0
-Elapsed: 0.191624
+Elapsed: 0.191160
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 549
 SearchResult-1: term=9788585466220 cnt=0
 records returned: 0
-Elapsed: 0.191474
+Elapsed: 0.191959
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
-Number of hits: 2, setno 550
-SearchResult-1: term=9788574062143 cnt=2
+Number of hits: 3, setno 550
+SearchResult-1: term=9788574062143 cnt=3
 records returned: 0
-Elapsed: 0.191829
+Elapsed: 0.191106
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 551
 SearchResult-1: term=9788541803311 cnt=0
 records returned: 0
-Elapsed: 0.191820
+Elapsed: 0.194898
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 552
 SearchResult-1: term=9788574063133 cnt=1
 records returned: 0
-Elapsed: 0.191736
+Elapsed: 0.192467
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 553
 SearchResult-1: term=9788566642179 cnt=0
 records returned: 0
-Elapsed: 0.192052
+Elapsed: 0.191739
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 554
 SearchResult-1: term=9788564974357 cnt=0
 records returned: 0
-Elapsed: 0.191535
+Elapsed: 0.192056
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 555
 SearchResult-1: term=9788574063966 cnt=0
 records returned: 0
-Elapsed: 0.191504
+Elapsed: 0.191636
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 556
 SearchResult-1: term=9788574064451 cnt=1
 records returned: 0
-Elapsed: 0.191704
+Elapsed: 0.192437
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 557
 SearchResult-1: term=9788577230716 cnt=1
 records returned: 0
-Elapsed: 0.191696
+Elapsed: 0.190878
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 558
 SearchResult-1: term=9788574062167 cnt=2
 records returned: 0
-Elapsed: 0.191832
+Elapsed: 0.191921
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 559
 SearchResult-1: term=9788517638916 cnt=0
 records returned: 0
-Elapsed: 0.191731
+Elapsed: 0.191982
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 560
 SearchResult-1: term=9788501070531 cnt=1
 records returned: 0
-Elapsed: 0.191782
+Elapsed: 0.191731
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 561
 SearchResult-1: term=9788586295249 cnt=0
 records returned: 0
-Elapsed: 0.191700
+Elapsed: 0.191030
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 562
 SearchResult-1: term=9788574067735 cnt=1
 records returned: 0
-Elapsed: 0.191687
+Elapsed: 0.192172
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 563
 SearchResult-1: term=9788537719831 cnt=0
 records returned: 0
-Elapsed: 0.191451
+Elapsed: 0.192405
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 564
 SearchResult-1: term=9788574923710 cnt=0
 records returned: 0
-Elapsed: 0.191879
+Elapsed: 0.191447
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 565
 SearchResult-1: term=9788574060668 cnt=2
 records returned: 0
-Elapsed: 0.191441
+Elapsed: 0.192423
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 566
 SearchResult-1: term=9788574061627 cnt=2
 records returned: 0
-Elapsed: 0.191651
+Elapsed: 0.190882
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 567
 SearchResult-1: term=9788574062167 cnt=2
 records returned: 0
-Elapsed: 0.191756
+Elapsed: 0.191713
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 568
 SearchResult-1: term=9788588023567 cnt=0
 records returned: 0
-Elapsed: 0.191849
+Elapsed: 0.191587
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 569
 SearchResult-1: term=9788574062501 cnt=0
 records returned: 0
-Elapsed: 0.191709
+Elapsed: 0.191629
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 570
 SearchResult-1: term=9788599188309 cnt=0
 records returned: 0
-Elapsed: 0.191699
+Elapsed: 0.191365
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 571
 SearchResult-1: term=9788574065175 cnt=2
 records returned: 0
-Elapsed: 0.191715
+Elapsed: 0.192361
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 572
 SearchResult-1: term=9788585642167 cnt=0
 records returned: 0
-Elapsed: 0.191694
+Elapsed: 0.191637
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 573
 SearchResult-1: term=9788574060910 cnt=0
 records returned: 0
-Elapsed: 0.191731
+Elapsed: 0.191714
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 574
 SearchResult-1: term=9788573811207 cnt=0
 records returned: 0
-Elapsed: 0.191705
+Elapsed: 0.191421
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 575
 SearchResult-1: term=9788546900022 cnt=1
 records returned: 0
-Elapsed: 0.192000
+Elapsed: 0.191856
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 576
 SearchResult-1: term=9788535925586 cnt=1
 records returned: 0
-Elapsed: 0.191511
+Elapsed: 0.191378
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 577
 SearchResult-1: term=9788582863183 cnt=1
 records returned: 0
-Elapsed: 0.191939
+Elapsed: 0.191892
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 578
 SearchResult-1: term=9788585047139 cnt=0
 records returned: 0
-Elapsed: 0.191426
+Elapsed: 0.191581
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 579
 SearchResult-1: term=9788599188101 cnt=0
 records returned: 0
-Elapsed: 0.191612
+Elapsed: 0.191261
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 580
 SearchResult-1: term=9788535921724 cnt=1
 records returned: 0
-Elapsed: 0.191590
+Elapsed: 0.192068
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 581
 SearchResult-1: term=9788535907452 cnt=0
 records returned: 0
-Elapsed: 0.191278
+Elapsed: 0.191953
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 582
 SearchResult-1: term=9788560090587 cnt=0
 records returned: 0
-Elapsed: 0.191671
+Elapsed: 0.190798
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 583
 SearchResult-1: term=9788575032633 cnt=1
 records returned: 0
-Elapsed: 0.192961
+Elapsed: 0.191758
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 584
 SearchResult-1: term=9788516045746 cnt=0
 records returned: 0
-Elapsed: 0.191121
+Elapsed: 0.191416
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 585
 SearchResult-1: term=9788563137531 cnt=0
 records returned: 0
-Elapsed: 0.191748
+Elapsed: 0.191666
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 586
 SearchResult-1: term=9788576662020 cnt=0
 records returned: 0
-Elapsed: 0.191699
+Elapsed: 0.192897
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 587
 SearchResult-1: term=9788576661962 cnt=0
 records returned: 0
-Elapsed: 0.191800
+Elapsed: 0.191221
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 588
 SearchResult-1: term=9788564974029 cnt=1
 records returned: 0
-Elapsed: 0.191620
+Elapsed: 0.191689
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 589
 SearchResult-1: term=9788586932199 cnt=0
 records returned: 0
-Elapsed: 0.190864
+Elapsed: 0.191605
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 590
 SearchResult-1: term=9788535920079 cnt=1
 records returned: 0
-Elapsed: 0.195085
+Elapsed: 0.191751
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 591
 SearchResult-1: term=9788598078359 cnt=2
 records returned: 0
-Elapsed: 0.192808
+Elapsed: 0.190890
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 592
 SearchResult-1: term=9788567296036 cnt=2
 records returned: 0
-Elapsed: 0.191718
+Elapsed: 0.191833
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 593
 SearchResult-1: term=9788580573688 cnt=1
 records returned: 0
-Elapsed: 0.191788
+Elapsed: 0.192066
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 594
 SearchResult-1: term=9788535907803 cnt=0
 records returned: 0
-Elapsed: 0.191728
+Elapsed: 0.191510
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 595
 SearchResult-1: term=9788535913835 cnt=2
 records returned: 0
-Elapsed: 0.191631
+Elapsed: 0.191967
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 596
 SearchResult-1: term=9788565765169 cnt=1
 records returned: 0
-Elapsed: 0.192386
+Elapsed: 0.191449
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 597
 SearchResult-1: term=9788581633855 cnt=0
 records returned: 0
-Elapsed: 0.191462
+Elapsed: 0.191876
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 598
 SearchResult-1: term=9788581632810 cnt=1
 records returned: 0
-Elapsed: 0.191500
+Elapsed: 0.191820
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 599
 SearchResult-1: term=9788580414363 cnt=1
 records returned: 0
-Elapsed: 0.191764
+Elapsed: 0.192095
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 600
 SearchResult-1: term=9788535917642 cnt=1
 records returned: 0
-Elapsed: 0.191855
+Elapsed: 0.191498
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 601
 SearchResult-1: term=9788586932144 cnt=0
 records returned: 0
-Elapsed: 0.191374
+Elapsed: 0.195411
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 602
 SearchResult-1: term=9788587595720 cnt=0
 records returned: 0
-Elapsed: 0.191970
+Elapsed: 0.194999
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 603
 SearchResult-1: term=9788560090044 cnt=1
 records returned: 0
-Elapsed: 0.192372
+Elapsed: 0.191258
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 604
 SearchResult-1: term=9788504011876 cnt=0
 records returned: 0
-Elapsed: 0.191739
+Elapsed: 0.191052
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 605
 SearchResult-1: term=9788577346516 cnt=0
 records returned: 0
-Elapsed: 0.190885
+Elapsed: 0.190734
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 606
 SearchResult-1: term=9788541816021 cnt=1
 records returned: 0
-Elapsed: 0.191729
+Elapsed: 0.191708
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 607
 SearchResult-1: term=9788561167899 cnt=1
 records returned: 0
-Elapsed: 0.191468
+Elapsed: 0.192129
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 608
 SearchResult-1: term=9788574060262 cnt=0
 records returned: 0
-Elapsed: 0.191958
+Elapsed: 0.191592
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 609
 SearchResult-1: term=9788503007443 cnt=1
 records returned: 0
-Elapsed: 0.191696
+Elapsed: 0.191657
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 610
 SearchResult-1: term=9788520915479 cnt=0
 records returned: 0
-Elapsed: 0.191750
+Elapsed: 0.191081
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 611
 SearchResult-1: term=9788576653608 cnt=1
 records returned: 0
-Elapsed: 0.191702
+Elapsed: 0.192500
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 612
 SearchResult-1: term=9788501045973 cnt=0
 records returned: 0
-Elapsed: 0.191942
+Elapsed: 0.191170
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 613
 SearchResult-1: term=9788551002261 cnt=1
 records returned: 0
-Elapsed: 0.191467
+Elapsed: 0.192050
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 614
 SearchResult-1: term=9788585470425 cnt=0
 records returned: 0
-Elapsed: 0.191887
+Elapsed: 0.191332
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 615
 SearchResult-1: term=9788571647466 cnt=0
 records returned: 0
-Elapsed: 0.191725
+Elapsed: 0.192036
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 616
 SearchResult-1: term=9788535900897 cnt=0
 records returned: 0
-Elapsed: 0.191549
+Elapsed: 0.191345
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 617
 SearchResult-1: term=9788574481524 cnt=1
 records returned: 0
-Elapsed: 0.192389
+Elapsed: 0.192359
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 618
 SearchResult-1: term=9788535900712 cnt=0
 records returned: 0
-Elapsed: 0.191265
+Elapsed: 0.191164
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 619
 SearchResult-1: term=9788571649040 cnt=2
 records returned: 0
-Elapsed: 0.191527
+Elapsed: 0.192395
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 620
 SearchResult-1: term=9788500021213 cnt=1
 records returned: 0
-Elapsed: 0.191820
+Elapsed: 0.191322
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 621
 SearchResult-1: term=9788535900095 cnt=0
 records returned: 0
-Elapsed: 0.191747
+Elapsed: 0.191882
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 4, setno 622
 SearchResult-1: term=9788535918137 cnt=4
 records returned: 0
-Elapsed: 0.192000
+Elapsed: 0.191357
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 623
 SearchResult-1: term=9788535905021 cnt=1
 records returned: 0
-Elapsed: 0.191737
+Elapsed: 0.191686
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 624
 SearchResult-1: term=9788535901450 cnt=1
 records returned: 0
-Elapsed: 0.191800
+Elapsed: 0.191880
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 625
 SearchResult-1: term=9788571643031 cnt=0
 records returned: 0
-Elapsed: 0.193723
+Elapsed: 0.192371
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 626
 SearchResult-1: term=9788571642423 cnt=0
 records returned: 0
-Elapsed: 0.195923
+Elapsed: 0.190921
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 3, setno 627
 SearchResult-1: term=9788535906790 cnt=3
 records returned: 0
-Elapsed: 0.193643
+Elapsed: 0.191988
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 628
 SearchResult-1: term=9788571642874 cnt=0
 records returned: 0
-Elapsed: 0.197593
+Elapsed: 0.191843
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 629
 SearchResult-1: term=9788535900095 cnt=0
 records returned: 0
-Elapsed: 0.191092
+Elapsed: 0.191810
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 630
 SearchResult-1: term=9788571646179 cnt=0
 records returned: 0
-Elapsed: 0.191545
+Elapsed: 0.191797
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 631
 SearchResult-1: term=9788571645080 cnt=0
 records returned: 0
-Elapsed: 0.192617
+Elapsed: 0.191971
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 632
 SearchResult-1: term=9788571644090 cnt=0
 records returned: 0
-Elapsed: 0.190586
+Elapsed: 0.191675
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 633
 SearchResult-1: term=9788525003058 cnt=0
 records returned: 0
-Elapsed: 0.191777
+Elapsed: 0.198792
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 634
 SearchResult-1: term=9788579490477 cnt=0
 records returned: 0
-Elapsed: 0.191549
+Elapsed: 0.191448
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 635
 SearchResult-1: term=9788520006375 cnt=0
 records returned: 0
-Elapsed: 0.191681
+Elapsed: 0.191821
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 636
 SearchResult-1: term=9788525406057 cnt=0
 records returned: 0
-Elapsed: 0.191606
+Elapsed: 0.196138
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 637
 SearchResult-1: term=9788535914764 cnt=2
 records returned: 0
-Elapsed: 0.192078
+Elapsed: 0.195158
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 638
 SearchResult-1: term=9788571648975 cnt=2
 records returned: 0
-Elapsed: 0.191425
+Elapsed: 0.191749
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 639
 SearchResult-1: term=9788535904819 cnt=0
 records returned: 0
-Elapsed: 0.191647
+Elapsed: 0.191775
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 640
 SearchResult-1: term=9788535919868 cnt=2
 records returned: 0
-Elapsed: 0.191525
+Elapsed: 0.191737
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 641
 SearchResult-1: term=9788535906837 cnt=2
 records returned: 0
-Elapsed: 0.191694
+Elapsed: 0.191905
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 642
 SearchResult-1: term=9788535904130 cnt=0
 records returned: 0
-Elapsed: 0.191551
+Elapsed: 0.191652
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 643
 SearchResult-1: term=9788551301869 cnt=1
 records returned: 0
-Elapsed: 0.196110
+Elapsed: 0.192746
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 644
 SearchResult-1: term=9788555030451 cnt=0
 records returned: 0
-Elapsed: 0.193951
+Elapsed: 0.191127
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 645
 SearchResult-1: term=9788567296036 cnt=2
 records returned: 0
-Elapsed: 0.191158
+Elapsed: 0.191042
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 646
 SearchResult-1: term=9788598078304 cnt=1
 records returned: 0
-Elapsed: 0.191718
+Elapsed: 0.191943
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 647
 SearchResult-1: term=9788562689581 cnt=0
 records returned: 0
-Elapsed: 0.191526
+Elapsed: 0.191740
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 648
 SearchResult-1: term=9788535903416 cnt=1
 records returned: 0
-Elapsed: 0.191834
+Elapsed: 0.191928
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 649
 SearchResult-1: term=9788575032282 cnt=0
 records returned: 0
-Elapsed: 0.191710
+Elapsed: 0.191029
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 650
 SearchResult-1: term=9788565765060 cnt=1
 records returned: 0
-Elapsed: 0.191771
+Elapsed: 0.191846
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 651
 SearchResult-1: term=9788582353899 cnt=1
 records returned: 0
-Elapsed: 0.191933
+Elapsed: 0.191975
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 652
 SearchResult-1: term=9788501109675 cnt=1
 records returned: 0
-Elapsed: 0.192181
+Elapsed: 0.191966
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 653
 SearchResult-1: term=9788579830914 cnt=0
 records returned: 0
-Elapsed: 0.197720
+Elapsed: 0.191907
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 654
 SearchResult-1: term=9788565765169 cnt=1
 records returned: 0
-Elapsed: 0.191232
+Elapsed: 0.191448
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 655
 SearchResult-1: term=9788589785020 cnt=0
 records returned: 0
-Elapsed: 0.192502
+Elapsed: 0.192266
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 656
 SearchResult-1: term=9788536409528 cnt=1
 records returned: 0
-Elapsed: 0.190809
+Elapsed: 0.198189
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 657
 SearchResult-1: term=9788535912357 cnt=1
 records returned: 0
-Elapsed: 0.192067
+Elapsed: 0.191746
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 658
 SearchResult-1: term=9788535908589 cnt=0
 records returned: 0
-Elapsed: 0.191504
+Elapsed: 0.191357
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 659
 SearchResult-1: term=9788535911480 cnt=1
 records returned: 0
-Elapsed: 0.192027
+Elapsed: 0.190873
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 660
 SearchResult-1: term=9788535922806 cnt=1
 records returned: 0
-Elapsed: 0.191286
+Elapsed: 0.198915
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 661
 SearchResult-1: term=9788571643239 cnt=0
 records returned: 0
-Elapsed: 0.191499
+Elapsed: 0.190772
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 662
 SearchResult-1: term=9788535908589 cnt=0
 records returned: 0
-Elapsed: 0.191534
+Elapsed: 0.192963
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 663
 SearchResult-1: term=9788528608366 cnt=1
 records returned: 0
-Elapsed: 0.192215
+Elapsed: 0.194573
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 664
 SearchResult-1: term=9788535906806 cnt=0
 records returned: 0
-Elapsed: 0.191148
+Elapsed: 0.190397
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 665
 SearchResult-1: term=9788528607598 cnt=0
 records returned: 0
-Elapsed: 0.191904
+Elapsed: 0.191583
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 666
 SearchResult-1: term=9788500630064 cnt=0
 records returned: 0
-Elapsed: 0.191840
+Elapsed: 0.192041
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 667
 SearchResult-1: term=9788535908046 cnt=0
 records returned: 0
-Elapsed: 0.191575
+Elapsed: 0.191852
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 668
 SearchResult-1: term=9788579622656 cnt=1
 records returned: 0
-Elapsed: 0.192472
+Elapsed: 0.192755
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 669
 SearchResult-1: term=9788585994716 cnt=0
 records returned: 0
-Elapsed: 0.196808
+Elapsed: 0.190454
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 670
 SearchResult-1: term=9788582260180 cnt=1
 records returned: 0
-Elapsed: 0.191881
+Elapsed: 0.192917
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 671
 SearchResult-1: term=9788585994976 cnt=1
 records returned: 0
-Elapsed: 0.191691
+Elapsed: 0.191502
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 672
 SearchResult-1: term=8508069189 cnt=2
 records returned: 0
-Elapsed: 0.191671
+Elapsed: 0.191372
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 673
 SearchResult-1: term=850803993x cnt=2
 records returned: 0
-Elapsed: 0.191905
+Elapsed: 0.192425
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 674
 SearchResult-1: term=8573191678 cnt=1
 records returned: 0
-Elapsed: 0.192331
+Elapsed: 0.192271
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 675
 SearchResult-1: term=8508017073 cnt=1
 records returned: 0
-Elapsed: 0.190795
+Elapsed: 0.190491
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 676
 SearchResult-1: term=8570070403 cnt=1
 records returned: 0
-Elapsed: 0.191646
+Elapsed: 0.191738
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 6, setno 677
 SearchResult-1: term=8571641994 cnt=6
 records returned: 0
-Elapsed: 0.191899
+Elapsed: 0.193626
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 17, setno 678
 SearchResult-1: term=8571641250 cnt=17
 records returned: 0
-Elapsed: 0.191846
+Elapsed: 0.196284
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 679
 SearchResult-1: term=8571641652 cnt=0
 records returned: 0
-Elapsed: 0.191600
+Elapsed: 0.191500
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 6, setno 680
 SearchResult-1: term=8571641994 cnt=6
 records returned: 0
-Elapsed: 0.191972
+Elapsed: 0.191587
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 19, setno 681
 SearchResult-1: term=8571641498 cnt=19
 records returned: 0
-Elapsed: 0.191622
+Elapsed: 0.191943
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 13, setno 682
 SearchResult-1: term=8571642877 cnt=13
 records returned: 0
-Elapsed: 0.192408
+Elapsed: 0.191929
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 683
 SearchResult-1: term=8503003929 cnt=0
 records returned: 0
-Elapsed: 0.190942
+Elapsed: 0.192083
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 684
 SearchResult-1: term=8501003603 cnt=0
 records returned: 0
-Elapsed: 0.191850
+Elapsed: 0.191643
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 685
 SearchResult-1: term=9789895136124 cnt=0
 records returned: 0
-Elapsed: 0.191477
+Elapsed: 0.191893
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 686
 SearchResult-1: term=9798572326543 cnt=0
 records returned: 0
-Elapsed: 0.191222
+Elapsed: 0.191602
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 687
 SearchResult-1: term=8500212578 cnt=2
 records returned: 0
-Elapsed: 0.192491
+Elapsed: 0.191189
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 688
 SearchResult-1: term=8525406597 cnt=1
 records returned: 0
-Elapsed: 0.191399
+Elapsed: 0.191305
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 689
 SearchResult-1: term=9788574481302 cnt=1
 records returned: 0
-Elapsed: 0.191310
+Elapsed: 0.191612
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 690
 SearchResult-1: term=9788525417862 cnt=1
 records returned: 0
-Elapsed: 0.192010
+Elapsed: 0.192839
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 691
 SearchResult-1: term=9788535909838 cnt=1
 records returned: 0
-Elapsed: 0.191461
+Elapsed: 0.190952
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 692
 SearchResult-1: term=9788580418323 cnt=1
 records returned: 0
-Elapsed: 0.192206
+Elapsed: 0.192131
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 693
 SearchResult-1: term=8535903259 cnt=1
 records returned: 0
-Elapsed: 0.191280
+Elapsed: 0.191445
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 694
 SearchResult-1: term=8535903259 cnt=1
 records returned: 0
-Elapsed: 0.191927
+Elapsed: 0.191962
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 695
 SearchResult-1: term=9788573265224 cnt=1
 records returned: 0
-Elapsed: 0.191624
+Elapsed: 0.192018
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 696
 SearchResult-1: term=8531400163 cnt=1
 records returned: 0
-Elapsed: 0.191825
+Elapsed: 0.192946
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 697
 SearchResult-1: term=8501048348 cnt=1
 records returned: 0
-Elapsed: 0.192119
+Elapsed: 0.197254
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 698
 SearchResult-1: term=9788535911909 cnt=1
 records returned: 0
-Elapsed: 0.190903
+Elapsed: 0.191238
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 699
 SearchResult-1: term=9788535905106 cnt=0
 records returned: 0
-Elapsed: 0.191682
+Elapsed: 0.191779
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 700
 SearchResult-1: term=9788535929874 cnt=0
 records returned: 0
-Elapsed: 0.191302
+Elapsed: 0.191732
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 701
 SearchResult-1: term=8525414360 cnt=0
 records returned: 0
-Elapsed: 0.191385
+Elapsed: 0.191911
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 702
 SearchResult-1: term=9788525408525 cnt=0
 records returned: 0
-Elapsed: 0.191802
+Elapsed: 0.191493
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 703
 SearchResult-1: term=9788525426246 cnt=1
 records returned: 0
-Elapsed: 0.191812
+Elapsed: 0.191797
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 704
 SearchResult-1: term=9788563137586 cnt=1
 records returned: 0
-Elapsed: 0.192218
+Elapsed: 0.191857
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 705
 SearchResult-1: term=9788535905588 cnt=0
 records returned: 0
-Elapsed: 0.191178
+Elapsed: 0.191754
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 706
 SearchResult-1: term=9788535919530 cnt=1
 records returned: 0
-Elapsed: 0.192337
+Elapsed: 0.191710
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 707
 SearchResult-1: term=9788567854441 cnt=1
 records returned: 0
-Elapsed: 0.190897
+Elapsed: 0.192548
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 708
 SearchResult-1: term=9788563137555 cnt=0
 records returned: 0
-Elapsed: 0.191610
+Elapsed: 0.191168
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 709
 SearchResult-1: term=9788573517323 cnt=1
 records returned: 0
-Elapsed: 0.191652
+Elapsed: 0.191671
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 710
 SearchResult-1: term=9788535909258 cnt=1
 records returned: 0
-Elapsed: 0.191583
+Elapsed: 0.191567
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 711
 SearchResult-1: term=9788583682707 cnt=0
 records returned: 0
-Elapsed: 0.191522
+Elapsed: 0.192466
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 712
 SearchResult-1: term=9788508086542 cnt=0
 records returned: 0
-Elapsed: 0.191727
+Elapsed: 0.190724
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 713
 SearchResult-1: term=9788525415615 cnt=0
 records returned: 0
-Elapsed: 0.191265
+Elapsed: 0.191929
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 714
 SearchResult-1: term=9788501055293 cnt=0
 records returned: 0
-Elapsed: 0.192020
+Elapsed: 0.191815
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 715
 SearchResult-1: term=9788525413154 cnt=0
 records returned: 0
-Elapsed: 0.191588
+Elapsed: 0.191525
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 716
 SearchResult-1: term=9788520903537 cnt=0
 records returned: 0
-Elapsed: 0.191720
+Elapsed: 0.191793
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 717
 SearchResult-1: term=9788535913354 cnt=1
 records returned: 0
-Elapsed: 0.191995
+Elapsed: 0.191913
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 718
 SearchResult-1: term=9788501085610 cnt=1
 records returned: 0
-Elapsed: 0.191961
+Elapsed: 0.192422
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 719
 SearchResult-1: term=9788563201102 cnt=1
 records returned: 0
-Elapsed: 0.191939
+Elapsed: 0.191456
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 720
 SearchResult-1: term=9788520923320 cnt=0
 records returned: 0
-Elapsed: 0.191369
+Elapsed: 0.194499
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 721
 SearchResult-1: term=9788526233799 cnt=0
 records returned: 0
-Elapsed: 0.191368
+Elapsed: 0.195185
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 722
 SearchResult-1: term=9788571648197 cnt=0
 records returned: 0
-Elapsed: 0.191782
+Elapsed: 0.193136
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 723
 SearchResult-1: term=9788535909104 cnt=0
 records returned: 0
-Elapsed: 0.191943
+Elapsed: 0.194852
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 724
 SearchResult-1: term=9788540504752 cnt=1
 records returned: 0
-Elapsed: 0.191834
+Elapsed: 0.192012
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 725
 SearchResult-1: term=9788571647381 cnt=0
 records returned: 0
-Elapsed: 0.191230
+Elapsed: 0.191450
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 726
 SearchResult-1: term=9788571649941 cnt=0
 records returned: 0
-Elapsed: 0.191872
+Elapsed: 0.191879
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 727
 SearchResult-1: term=9788565765190 cnt=1
 records returned: 0
-Elapsed: 0.191632
+Elapsed: 0.191882
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 6, setno 728
 SearchResult-1: term=9788535907728 cnt=6
 records returned: 0
-Elapsed: 0.191419
+Elapsed: 0.191823
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 3, setno 729
 SearchResult-1: term=9788535917062 cnt=3
 records returned: 0
-Elapsed: 0.191920
+Elapsed: 0.191639
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 5, setno 730
 SearchResult-1: term=9788535915761 cnt=5
 records returned: 0
-Elapsed: 0.191666
+Elapsed: 0.191632
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 731
 SearchResult-1: term=9788577992706 cnt=2
 records returned: 0
-Elapsed: 0.191610
+Elapsed: 0.191806
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 732
 SearchResult-1: term=9788571643390 cnt=0
 records returned: 0
-Elapsed: 0.191477
+Elapsed: 0.191730
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 733
 SearchResult-1: term=9789723703818 cnt=0
 records returned: 0
-Elapsed: 0.191790
+Elapsed: 0.191709
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 734
 SearchResult-1: term=9722500414 cnt=0
 records returned: 0
-Elapsed: 0.192530
+Elapsed: 0.191168
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 735
 SearchResult-1: term=9788571642669 cnt=0
 records returned: 0
-Elapsed: 0.190685
+Elapsed: 0.191977
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 736
 SearchResult-1: term=9788585470395 cnt=0
 records returned: 0
-Elapsed: 0.191720
+Elapsed: 0.191639
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 737
 SearchResult-1: term=9788535908749 cnt=2
 records returned: 0
-Elapsed: 0.191931
+Elapsed: 0.191403
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 738
 SearchResult-1: term=9788574481562 cnt=1
 records returned: 0
-Elapsed: 0.191386
+Elapsed: 0.192004
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 739
 SearchResult-1: term=9788575811023 cnt=0
 records returned: 0
-Elapsed: 0.191728
+Elapsed: 0.191879
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 740
 SearchResult-1: term=8527700387 cnt=1
 records returned: 0
-Elapsed: 0.192492
+Elapsed: 0.191255
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 741
 SearchResult-1: term=9727474128 cnt=0
 records returned: 0
-Elapsed: 0.191627
+Elapsed: 0.195238
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 742
 SearchResult-1: term=9788535916485 cnt=2
 records returned: 0
-Elapsed: 0.190974
+Elapsed: 0.194204
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 743
 SearchResult-1: term=9788535920291 cnt=0
 records returned: 0
-Elapsed: 0.191951
+Elapsed: 0.192018
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 744
 SearchResult-1: term=9788525428523 cnt=1
 records returned: 0
-Elapsed: 0.191936
+Elapsed: 0.191217
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 745
 SearchResult-1: term=8585091983 cnt=1
 records returned: 0
-Elapsed: 0.192002
+Elapsed: 0.192412
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 746
 SearchResult-1: term=9788501083326 cnt=1
 records returned: 0
-Elapsed: 0.190764
+Elapsed: 0.191261
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 747
 SearchResult-1: term=9788574024851 cnt=0
 records returned: 0
-Elapsed: 0.191797
+Elapsed: 0.191504
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 748
 SearchResult-1: term=9788510346603 cnt=0
 records returned: 0
-Elapsed: 0.191817
+Elapsed: 0.191329
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 749
 SearchResult-1: term=9788501042316 cnt=1
 records returned: 0
-Elapsed: 0.192685
+Elapsed: 0.192468
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 750
 SearchResult-1: term=9788520918449 cnt=1
 records returned: 0
-Elapsed: 0.196861
+Elapsed: 0.191589
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 751
 SearchResult-1: term=9788535900958 cnt=0
 records returned: 0
-Elapsed: 0.191388
+Elapsed: 0.191409
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 752
 SearchResult-1: term=9788573213218 cnt=1
 records returned: 0
-Elapsed: 0.192358
+Elapsed: 0.191831
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 753
 SearchResult-1: term=9788535905106 cnt=0
 records returned: 0
-Elapsed: 0.191173
+Elapsed: 0.191820
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 754
 SearchResult-1: term=9788525406019 cnt=0
 records returned: 0
-Elapsed: 0.191604
+Elapsed: 0.191768
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 755
 SearchResult-1: term=9788580578997 cnt=1
 records returned: 0
-Elapsed: 0.194764
+Elapsed: 0.192241
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 756
 SearchResult-1: term=8525408336 cnt=1
 records returned: 0
-Elapsed: 0.195425
+Elapsed: 0.191573
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 757
 SearchResult-1: term=9788501057259 cnt=0
 records returned: 0
-Elapsed: 0.191559
+Elapsed: 0.191923
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 758
 SearchResult-1: term=9788525406477 cnt=0
 records returned: 0
-Elapsed: 0.192124
+Elapsed: 0.192008
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 759
 SearchResult-1: term=9788532504494 cnt=0
 records returned: 0
-Elapsed: 0.191870
+Elapsed: 0.191062
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 760
 SearchResult-1: term=9788501071439 cnt=0
 records returned: 0
-Elapsed: 0.191741
+Elapsed: 0.191668
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 761
 SearchResult-1: term=9788571643956 cnt=0
 records returned: 0
-Elapsed: 0.191452
+Elapsed: 0.191842
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 762
 SearchResult-1: term=9788501104670 cnt=1
 records returned: 0
-Elapsed: 0.192402
+Elapsed: 0.191813
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 763
 SearchResult-1: term=9788501042316 cnt=1
 records returned: 0
-Elapsed: 0.192468
+Elapsed: 0.191654
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 764
 SearchResult-1: term=9788501060266 cnt=0
 records returned: 0
-Elapsed: 0.197157
+Elapsed: 0.192147
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 765
 SearchResult-1: term=9788501092847 cnt=1
 records returned: 0
-Elapsed: 0.191924
+Elapsed: 0.191284
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 766
 SearchResult-1: term=9788501071439 cnt=0
 records returned: 0
-Elapsed: 0.190999
+Elapsed: 0.192048
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 4, setno 767
 SearchResult-1: term=9788573264098 cnt=4
 records returned: 0
-Elapsed: 0.191649
+Elapsed: 0.192093
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 768
 SearchResult-1: term=9788522006977 cnt=0
 records returned: 0
-Elapsed: 0.191623
+Elapsed: 0.190882
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 769
 SearchResult-1: term=9788532503039 cnt=0
 records returned: 0
-Elapsed: 0.191651
+Elapsed: 0.192396
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 770
 SearchResult-1: term=853901663 cnt=0
 records returned: 0
-Elapsed: 0.191673
+Elapsed: 0.192723
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 771
 SearchResult-1: term=8573025964 cnt=1
 records returned: 0
-Elapsed: 0.192330
+Elapsed: 0.197450
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 772
 SearchResult-1: term=9788591020607 cnt=1
 records returned: 0
-Elapsed: 0.191516
+Elapsed: 0.191343
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 773
 SearchResult-1: term=8520918611 cnt=0
 records returned: 0
-Elapsed: 0.191435
+Elapsed: 0.191437
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 8, setno 774
 SearchResult-1: term=8571648085 cnt=8
 records returned: 0
-Elapsed: 0.191905
+Elapsed: 0.191518
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 775
 SearchResult-1: term=9788580410327 cnt=1
 records returned: 0
-Elapsed: 0.191951
+Elapsed: 0.192319
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 776
 SearchResult-1: term=9788535918649 cnt=1
 records returned: 0
-Elapsed: 0.191400
+Elapsed: 0.190727
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 777
 SearchResult-1: term=9788535915914 cnt=1
 records returned: 0
-Elapsed: 0.191695
+Elapsed: 0.191944
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
@@ -5458,488 +5458,488 @@ Search was a success.
 Number of hits: 1, setno 779
 SearchResult-1: term=8501003743 cnt=1
 records returned: 0
-Elapsed: 0.192665
+Elapsed: 0.200319
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 780
 SearchResult-1: term=8500295198 cnt=1
 records returned: 0
-Elapsed: 0.196053
+Elapsed: 0.203148
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 781
 SearchResult-1: term=2011552540 cnt=0
 records returned: 0
-Elapsed: 0.194039
+Elapsed: 0.192694
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 782
 SearchResult-1: term=8535904204 cnt=1
 records returned: 0
-Elapsed: 0.191005
+Elapsed: 0.194119
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 783
 SearchResult-1: term=9788535636710 cnt=1
 records returned: 0
-Elapsed: 0.191795
+Elapsed: 0.194341
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 784
 SearchResult-1: term=85254 cnt=0
 records returned: 0
-Elapsed: 0.191698
+Elapsed: 0.191099
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 7, setno 785
 SearchResult-1: term=8501011398 cnt=7
 records returned: 0
-Elapsed: 0.191781
+Elapsed: 0.191825
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 9, setno 786
 SearchResult-1: term=8501027766 cnt=9
 records returned: 0
-Elapsed: 0.192211
+Elapsed: 0.192251
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 787
 SearchResult-1: term=8535904360 cnt=1
 records returned: 0
-Elapsed: 0.191054
+Elapsed: 0.191361
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 788
 SearchResult-1: term=8501057878 cnt=1
 records returned: 0
-Elapsed: 0.193371
+Elapsed: 0.192722
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 789
 SearchResult-1: term=8586387320 cnt=1
 records returned: 0
-Elapsed: 0.197915
+Elapsed: 0.191070
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 790
 SearchResult-1: term=8571648891 cnt=2
 records returned: 0
-Elapsed: 0.196708
+Elapsed: 0.191773
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 791
 SearchResult-1: term=9788528613995 cnt=0
 records returned: 0
-Elapsed: 0.191749
+Elapsed: 0.192040
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 792
 SearchResult-1: term=8573212454 cnt=1
 records returned: 0
-Elapsed: 0.192482
+Elapsed: 0.191194
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 793
 SearchResult-1: term=8571101086 cnt=1
 records returned: 0
-Elapsed: 0.191748
+Elapsed: 0.191180
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 794
 SearchResult-1: term=8575091344 cnt=1
 records returned: 0
-Elapsed: 0.192623
+Elapsed: 0.192045
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 795
 SearchResult-1: term=9788577150809 cnt=1
 records returned: 0
-Elapsed: 0.197089
+Elapsed: 0.191350
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 9, setno 796
 SearchResult-1: term=8501009083 cnt=9
 records returned: 0
-Elapsed: 0.192190
+Elapsed: 0.190897
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 9, setno 797
 SearchResult-1: term=8571644721 cnt=9
 records returned: 0
-Elapsed: 0.191444
+Elapsed: 0.192015
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 798
 SearchResult-1: term=8585898593 cnt=0
 records returned: 0
-Elapsed: 0.191390
+Elapsed: 0.191430
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 799
 SearchResult-1: term=8571647038 cnt=1
 records returned: 0
-Elapsed: 0.191865
+Elapsed: 0.192358
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 800
 SearchResult-1: term=8573211784 cnt=1
 records returned: 0
-Elapsed: 0.191634
+Elapsed: 0.191088
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 801
 SearchResult-1: term=9788535905144 cnt=0
 records returned: 0
-Elapsed: 0.191881
+Elapsed: 0.191964
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 802
 SearchResult-1: term=9788535906363 cnt=0
 records returned: 0
-Elapsed: 0.191336
+Elapsed: 0.191948
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 803
 SearchResult-1: term=85712230358 cnt=0
 records returned: 0
-Elapsed: 0.191953
+Elapsed: 0.191839
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 804
 SearchResult-1: term=9788525409676 cnt=0
 records returned: 0
-Elapsed: 0.191496
+Elapsed: 0.191544
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 805
 SearchResult-1: term=9788572325288 cnt=0
 records returned: 0
-Elapsed: 0.191867
+Elapsed: 0.191933
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 806
 SearchResult-1: term=8500714735 cnt=1
 records returned: 0
-Elapsed: 0.191531
+Elapsed: 0.191906
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 807
 SearchResult-1: term=9788585851392 cnt=0
 records returned: 0
-Elapsed: 0.191940
+Elapsed: 0.191467
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 808
 SearchResult-1: term=9789723806038 cnt=0
 records returned: 0
-Elapsed: 0.191555
+Elapsed: 0.191810
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 809
 SearchResult-1: term=9788568526019 cnt=1
 records returned: 0
-Elapsed: 0.192618
+Elapsed: 0.192226
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 810
 SearchResult-1: term=9788575561591 cnt=0
 records returned: 0
-Elapsed: 0.191015
+Elapsed: 0.191597
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 811
 SearchResult-1: term=9789723802429 cnt=0
 records returned: 0
-Elapsed: 0.191689
+Elapsed: 0.191717
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 812
 SearchResult-1: term=9788577151721 cnt=1
 records returned: 0
-Elapsed: 0.192683
+Elapsed: 0.192367
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 813
 SearchResult-1: term=8525006106 cnt=1
 records returned: 0
-Elapsed: 0.191069
+Elapsed: 0.191138
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 8, setno 814
 SearchResult-1: term=850060669X cnt=8
 records returned: 0
-Elapsed: 0.191465
+Elapsed: 0.192126
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 815
 SearchResult-1: term=9788542103953 cnt=1
 records returned: 0
-Elapsed: 0.191690
+Elapsed: 0.191555
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 816
 SearchResult-1: term=8527900858 cnt=1
 records returned: 0
-Elapsed: 0.192406
+Elapsed: 0.191309
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 817
 SearchResult-1: term=9788535907902 cnt=0
 records returned: 0
-Elapsed: 0.191080
+Elapsed: 0.191914
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
-Number of hits: 0, setno 818
-SearchResult-1: term=810569 cnt=0
+Number of hits: 1, setno 818
+SearchResult-1: term=810569 cnt=1
 records returned: 0
-Elapsed: 0.191654
+Elapsed: 0.192732
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 819
 SearchResult-1: term=9788532523723 cnt=1
 records returned: 0
-Elapsed: 0.192709
+Elapsed: 0.197172
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 820
 SearchResult-1: term=801393 cnt=0
 records returned: 0
-Elapsed: 0.190868
+Elapsed: 0.198854
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 821
 SearchResult-1: term=9788526283428 cnt=0
 records returned: 0
-Elapsed: 0.191742
+Elapsed: 0.196023
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 822
 SearchResult-1: term=9788525009036 cnt=0
 records returned: 0
-Elapsed: 0.191845
+Elapsed: 0.192003
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 823
 SearchResult-1: term=9788525406286 cnt=0
 records returned: 0
-Elapsed: 0.191762
+Elapsed: 0.191281
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 824
 SearchResult-1: term=9788593828447 cnt=1
 records returned: 0
-Elapsed: 0.191650
+Elapsed: 0.191985
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 825
 SearchResult-1: term=8575031082 cnt=1
 records returned: 0
-Elapsed: 0.192798
+Elapsed: 0.192353
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 826
 SearchResult-1: term=9788551300275 cnt=1
 records returned: 0
-Elapsed: 0.190724
+Elapsed: 0.191308
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 827
 SearchResult-1: term=9788500025556 cnt=0
 records returned: 0
-Elapsed: 0.191773
+Elapsed: 0.191659
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 828
 SearchResult-1: term=9788535901351 cnt=0
 records returned: 0
-Elapsed: 0.191563
+Elapsed: 0.192305
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 829
 SearchResult-1: term=9788535908435 cnt=1
 records returned: 0
-Elapsed: 0.191875
+Elapsed: 0.191832
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 830
 SearchResult-1: term=9798573020471 cnt=0
 records returned: 0
-Elapsed: 0.191715
+Elapsed: 0.191637
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 831
 SearchResult-1: term=9788573213751 cnt=1
 records returned: 0
-Elapsed: 0.191531
+Elapsed: 0.191850
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 2, setno 832
 SearchResult-1: term=9788535920260 cnt=2
 records returned: 0
-Elapsed: 0.191739
+Elapsed: 0.191205
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 833
 SearchResult-1: term=9788574024875 cnt=0
 records returned: 0
-Elapsed: 0.191800
+Elapsed: 0.192038
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 834
 SearchResult-1: term=9788535915334 cnt=0
 records returned: 0
-Elapsed: 0.191519
+Elapsed: 0.191585
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 835
 SearchResult-1: term=9788525413482 cnt=0
 records returned: 0
-Elapsed: 0.191320
+Elapsed: 0.192128
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 836
 SearchResult-1: term=9788535908930 cnt=0
 records returned: 0
-Elapsed: 0.191870
+Elapsed: 0.191173
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 837
 SearchResult-1: term=9788535905373 cnt=0
 records returned: 0
-Elapsed: 0.191895
+Elapsed: 0.191387
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 838
 SearchResult-1: term=9788535910186 cnt=0
 records returned: 0
-Elapsed: 0.191498
+Elapsed: 0.191777
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 839
 SearchResult-1: term=9788535910988 cnt=1
 records returned: 0
-Elapsed: 0.191665
+Elapsed: 0.192046
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 840
 SearchResult-1: term=9788576799931 cnt=1
 records returned: 0
-Elapsed: 0.192688
+Elapsed: 0.192033
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 6, setno 841
 SearchResult-1: term=8500112611 cnt=6
 records returned: 0
-Elapsed: 0.191329
+Elapsed: 0.192087
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 842
 SearchResult-1: term=9788506044780 cnt=0
 records returned: 0
-Elapsed: 0.190950
+Elapsed: 0.191172
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 843
 SearchResult-1: term=9788506044797 cnt=0
 records returned: 0
-Elapsed: 0.191357
+Elapsed: 0.191953
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 844
 SearchResult-1: term=9788576290490 cnt=0
 records returned: 0
-Elapsed: 0.191948
+Elapsed: 0.191802
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 1, setno 845
 SearchResult-1: term=9788535923247 cnt=1
 records returned: 0
-Elapsed: 0.191632
+Elapsed: 0.191665
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 846
 SearchResult-1: term=9788525035110 cnt=0
 records returned: 0
-Elapsed: 0.191620
+Elapsed: 0.191790
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 847
 SearchResult-1: term=9788535904840 cnt=0
 records returned: 0
-Elapsed: 0.191778
+Elapsed: 0.191845
 Z> Sent searchRequest.
 Received SearchResponse.
 Search was a success.
 Number of hits: 0, setno 848
 SearchResult-1: term=9788579490521 cnt=0
 records returned: 0
-Elapsed: 0.191915
+Elapsed: 0.191728
 Z> 

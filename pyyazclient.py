@@ -52,6 +52,3 @@ class PyYazClient():
         s = cmdfile(csvdf=self.csvdf, server=self.server, base = self.base)
         os.system(f"yaz-client < {s[1]} > {s[0]}yazout.txt 2> {s[0]}yazerror.txt")
 
-pyaz = PyYazClient(base="bib")
-pyaz.getmarcs()
-
